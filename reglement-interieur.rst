@@ -1,6 +1,8 @@
 ==================================================
-RÈGLEMENT INTERIEUR DE L'ASSOCIATION DEBIAN FRANCE
+RÈGLEMENT INTÉRIEUR DE L'ASSOCIATION DEBIAN FRANCE
 ==================================================
+
+CE DOCUMENT EST UN BROUILLON DE TRAVAIL
 
 Préambule
 =========
@@ -9,7 +11,7 @@ Conformément aux Statuts de l'Association Debian France, le présent Règlement
 Intérieur est établi par le Conseil d'Administration.
 
 Ce Règlement Intérieur a été établi et approuvé par le Conseil d'Administration
-en date du 23/07/2010.
+en date du XX/XX/2013.
 
 Tout adhérent s'engage au vu des Statuts et du Règlement Intérieur de
 l'Association.
