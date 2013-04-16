@@ -1,9 +1,9 @@
 ======================================
 STATUTS DE L'ASSOCIATION DEBIAN FRANCE
 ======================================
------------
-Version 1.2
------------
+-----------------
+Version 2.0~draft
+-----------------
 
 ARTICLE 0 - Définitions
 =======================
@@ -62,7 +62,7 @@ activités connexes et assimilées conformes à son objet et ses buts :
 * maintenir et entretenir le contact avec la presse par l'intermédiaire de
   communiqués de presse ;
 
-* traduire et relayer les communiqués de presse émanants de la communauté Debian ;
+* traduire et relayer les communiqués de presse émanant de la communauté Debian ;
 
 * rédiger ou participer à la rédaction d'articles consacrés aux systèmes
   d'exploitation libres, et à ceux du Projet Debian en particulier ;
@@ -121,7 +121,7 @@ cas prévus à l' `ARTICLE 8 - Perte de la qualité de membre`_.
 
 Les membres actifs sont des personnes physiques. Ils acquittent la cotisation
 statutaire d'un montant fixé annuellement par l'Assemblée Générale ordinaire, et
-figurant au Règlement Interieur, la cotisation pouvant être d'un montant de 0
+figurant au Règlement Intérieur, la cotisation pouvant être d'un montant de 0
 (zéro) euro. Seuls les membres actifs sont membres de l'Assemblée Générale avec
 voix délibérative.
 
@@ -291,19 +291,19 @@ occasions suivantes :
 Tous les membres de l'Association peuvent participer à l'Assemblée Générale.
 
 
-11.1.2 Droit de véto
+11.1.2 Droit de veto
 ~~~~~~~~~~~~~~~~~~~~
 
-Les décisions de l'Assemblée Générale sont soumises à un droit de véto des
+Les décisions de l'Assemblée Générale sont soumises à un droit de veto des
 Développeurs Debian.
 
-Les Développeurs Debian disposant du droit de véto doivent :
+Les Développeurs Debian disposant du droit de veto doivent :
 
 * être membres de l'Association ;
 
 * être présents physiquement lors de l'Assemblée Générale.
 
-Le véto est décidé à la majorité simple des Développeurs Debian correspondant à
+Le veto est décidé à la majorité simple des Développeurs Debian correspondant à
 ces critères.
 
 11.1.3 Procédure de vote
@@ -416,7 +416,7 @@ l'Assemblée Générale et expose les questions portées à l'ordre du jour.
 Le quorum est d'un tiers des membres ayant le droit de vote, y compris les
 membres représentés. Si le quorum n'est pas atteint, le président peut convoquer
 une nouvelle Assemblée Générale extraordinaire dans un délai d'un mois minimum
-et deux mois maximum : celle-ci siègera sans condition de quorum.
+et deux mois maximum : celle-ci siégera sans condition de quorum.
 
 ARTICLE 12 - Gratuité du mandat
 ===============================
