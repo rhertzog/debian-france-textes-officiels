@@ -24,9 +24,10 @@ Dans les présents statuts, les termes suivants sont définis :
 * projet Debian : http://www.debian.org, projet bénévole visant à la production
   de systèmes d'exploitation libres ;
 
-* développeur Debian : personne contribuant au Projet Debian dont la clé
-  cryptographique PGP/GPG personnelle figure dans la liste officielle des clés
-  cryptographiques du Projet Debian, telle que publiée sur
+* développeur Debian : membre du projet Debian disposant du droit de vote selon
+  la constitution Debian (http://www.debian.org/devel/constitution) et d'une clé
+  cryptographique PGP/GPG personnelle qui figure dans la liste officielle des
+  clés cryptographiques du Projet Debian, telle que publiée sur
   http://keyring.debian.org ;
 
 * courrier électronique signé : courrier électronique signé par une clé
