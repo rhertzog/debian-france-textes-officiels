@@ -63,6 +63,8 @@ les informations suivantes :
 
 * date de naissance ;
 
+* profession ;
+
 * adresse postale complète ;
 
 * adresse de courrier électronique ;
