@@ -52,10 +52,10 @@ sans distinction de la qualité de membre, à l'exception des membres d'honneurs
 
 Pour obtenir le statut d'adhérent, la personne devra prendre connaissance des
 Statuts et du Règlement Intérieur de l'Association, et remplir le formulaire
-d'adhésion. Ces documents sont disponibles sur le site web de l'Association. Si
-la personne ne dispose pas d'accès à Internet, elle pourra envoyer, au siège
-social de l'Association, une demande d'adhésion accompagnée des informations
-suivantes :
+d'adhésion. Ce formulaire peut-être rempli en ligne sur le site de l'association
+ou alors il peut être téléchargé, imprimé, rempli, puis renvoyé au siège social
+de l'Association. Dans tous les cas, la demande d'adhésion doit inclure
+les informations suivantes :
 
 * montant de la cotisation ;
 
@@ -94,8 +94,8 @@ l'élection au Conseil d'Administration.
 3.2 Déclaration de candidature
 ------------------------------
 
-Les candidatures au Conseil d'Administration doivent être adressées au Bureau
-par courrier postal ou courrier électronique signé au moins sept jours avant la
+Les candidatures au Conseil d'Administration doivent être adressées par
+courrier électronique signé au Bureau au moins sept jours avant la
 date de l'Assemblée Générale. Celles-ci devront être accompagnées d'une
 présentation du candidat et de sa profession de foi.
 
@@ -145,11 +145,12 @@ nouvellement élu.
 ARTICLE 4 - Communication officielle interne
 ============================================
 
-Toute communication officielle d'un membre du Conseil d'Administration doit être
-signé avec sa clé cryptographique personnelle. Les adhérents sont fortement
-invités à se munir d'une clé cryptographique personnelle et la faire signer par
-les autres adhérents, faute de quoi toute communication devra se faire par voie
-postale.
+Toute communication officielle d'un membre du Conseil d'Administration devrait être
+signée avec sa clé cryptographique personnelle. Les adhérents sont fortement
+invités à se munir d'une clé cryptographique personnelle et à la faire signer par
+les autres adhérents. En effet, une telle clé est nécessaire pour
+candidater au Conseil d'Administration et pourrait être requise pour
+authentifier certaines demandes soumises par courrier électronique.
 
 La communication des membres au secrétariat n’est soumise à aucune obligation de
 signature cryptographique, sauf exception clairement précisée.
