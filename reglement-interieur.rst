@@ -249,6 +249,11 @@ l'Association, ou vers un miroir de ce site agréé par l'Association.
 ARTICLE 10 - Délégation de pouvoir du Conseil d'Administration
 ==============================================================
 
-* administration des listes de diffusion : Julien BLACHE ;
+* administration du serveur france.debian.net : Julien CRISTAU et Raphaël
+  HERTZOG ;
 
-* administration du site web : Julien BLACHE.
+* administration des listes de diffusion : Julien CRISTAU et le Bureau ;
+
+* administration du site web : le Bureau et toutes les personnes
+  habilitées à mettre à jour le dépôt Git
+  ssh://git@france.debian.net/website.
