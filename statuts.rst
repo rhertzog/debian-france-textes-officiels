@@ -76,6 +76,9 @@ activités connexes et assimilées conformes à son objet et ses buts :
 * organiser ou participer à des actions d'information et de sensibilisation en
   direction des instances locales, nationales ou européennes.
 
+* assumer le rôle de « Trusted organisation » pour le projet Debian
+  (voir `ARTICLE 19 - Relation avec le projet Debian`_).
+
 ARTICLE 4 - Siège social
 ========================
 
@@ -523,5 +526,27 @@ En cas de dissolution prononcée par les deux tiers au moins des membres présen
 par celle-ci et l'actif, s'il y a lieu, est dévolu conformément aux
 décisions de l'Assemblée Générale Extraordinaire à une (ou plusieurs)
 association(s) ayant des buts similaires.
+
+ARTICLE 19 - Relation avec le projet Debian
+===========================================
+
+Si le projet Debian le souhaite, l'Association peut également assumer
+le rôle de « Trusted organisation » pour ce dernier (tel que décrit
+à la `section 9.3 de la constitution Debian
+<http://www.debian.org/devel/constitution#item-9>`_).
+
+En conséquence, l'Association peut être amenée à gérer des actifs
+monétaires du projet Debian (fonds « Organisation Debian »). Seul le
+« Debian Project Leader » (DPL), élu(e) par l'ensemble des développeurs
+Debian, a l'autorité pour décider de l'usage de ces actifs dans le cadre
+fixé par le projet Debian.
+
+Les fonds propres de l'Association ne seront pas accessibles directement
+par le DPL. Le Conseil d'Administration peut cependant décider d'effectuer
+des donations au projet Debian et de transférer ainsi une partie de ses
+fonds propres dans les fonds « Organisation Debian ».
+
+Le Président et le Trésorier sont les interlocuteurs du DPL pour effectuer
+les opérations financières demandées par ce dernier.
 
     Fait à Paris le 11 mai 2009.
