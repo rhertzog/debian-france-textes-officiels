@@ -26,9 +26,8 @@ ARTICLE 1 - Constitution
 ========================
 
 Il est fondé entre les adhérents aux présents statuts une association à but non
-lucratif régie par les articles 21 à 79-III du Code Civil Local maintenu en
-vigueur dans les départements du Bas-Rhin, Haut-Rhin et Moselle ainsi que par
-les présents statuts.
+lucratif régie par la loi du 1er juillet 1901, le décret du 16 août
+1901, ainsi que par les présents statuts.
 
 ARTICLE 2 - Dénomination
 ========================
@@ -517,7 +516,8 @@ ARTICLE 18 - Dissolution
 
 En cas de dissolution prononcée par les deux tiers au moins des membres présents
 à l'Assemblée Générale Extraordinaire, un ou plusieurs liquidateurs sont nommés
-par celle-ci et l'actif, s'il y a lieu, est dévolu conformément à l'article 45
-alinéa 3 du code civil local à une association poursuivant des buts similaires.
+par celle-ci et l'actif, s'il y a lieu, est dévolu conformément aux
+décisions de l'Assemblée Générale Extraordinaire à une (ou plusieurs)
+association(s) ayant des buts similaires.
 
     Fait à Paris le 11 mai 2009.
