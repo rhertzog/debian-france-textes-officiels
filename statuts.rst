@@ -235,8 +235,11 @@ Les modalités du renouvellement sont précisées dans le Règlement Intérieur.
 9.3 Révocation
 --------------
 
-Tout membre du Conseil d'Administration qui, sans justification, n'aura pas
-assisté à deux réunions successives, sera considéré comme démissionnaire.
+Tout membre du Conseil d'Administration qui, sans justification, n'aura
+pris part à aucune délibération électronique sur une période de 3 mois
+(délai minimal entre la première et la dernière délibération manquée), ou
+qui n'aura pas assisté à deux réunions successives, sera considéré comme
+démissionnaire.
 
 9.4 Modalités de fonctionnement
 -------------------------------
