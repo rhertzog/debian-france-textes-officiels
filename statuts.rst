@@ -373,15 +373,15 @@ de quorum.
 Le Président, assisté des membres du Conseil d'Administration, préside
 l'Assemblée Générale et expose les questions portées à l'ordre du jour.
 
-Le Trésorier rend compte de sa gestion et soumet le bilan des comptes à
-l'approbation de l'Assemblée Générale.
+Le Trésorier rend compte de sa gestion et soumet les comptes annuels
+(bilan, compte de résulat) à l'approbation de l'Assemblée Générale.
 
 Il est procédé, après épuisement de l'ordre du jour, au remplacement des membres
 sortants du Conseil.
 
 Le Conseil d'administration peut décider de convoquer une Assemblée Générale
 ordinaire électronique. Les Assemblées Générales ordinaires électroniques se
-déroulent sur une adresse spécifiée au règlement intérieur, qui n'est ouverte
+déroulent sur une adresse spécifiée au Règlement Intérieur, qui n'est ouverte
 que durant la durée des Assemblées Générales ordinaires.
 
 Une Assemblée Générale ordinaire électronique se déroule en deux phases :
