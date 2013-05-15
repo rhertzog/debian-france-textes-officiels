@@ -156,8 +156,9 @@ pas faire partie du Conseil d'Administration.
 ARTICLE 7 - Conditions d'adhésion des membres
 =============================================
 
-Pour devenir membre actif ou ordinaire de l'Association, il faut souscrire un
-bulletin d'adhésion envoyé au siège de l'Association.
+Pour devenir membre actif ou ordinaire de l'Association, il faut remplir un
+bulletin d'adhésion et le faire parvenir au Conseil d'Administration selon
+les modalités documentées dans le Règlement Intérieur.
 
 Le Conseil d'Administration peut rejeter toute demande d'adhésion si la majorité
 des deux tiers de ses membres le décide.
