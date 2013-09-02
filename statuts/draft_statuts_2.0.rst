@@ -86,7 +86,6 @@ L'association se compose de :
 a) Membres d'honneur
 b) Membres bienfaiteurs
 c) Membres actifs ou adhérents
-d) Membres ordinaires
 
 
 a) Les membres d’honneur
