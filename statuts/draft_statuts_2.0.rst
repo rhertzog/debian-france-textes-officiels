@@ -20,14 +20,13 @@ sur le site internet : http://keyring.debian.org).
 
 Ce projet bénévole est constitué par la communauté mondiale de
 développeurs et acteurs qui contribuent à son développement. Tous les
-ans, la communauté désigne le DEBIAN PROJECT LEADER dit « DPL », lequel
-est chargé de représenter le projet et supporte toutes les
-responsabilités inhérentes au développement du projet DEBIAN
- 
+ans, la communauté désigne le DEBIAN PROJECT LEADER dit « DPL »,
+lequel est chargé de représenter le projet et supporte toutes les
+responsabilités inhérentes au développement du projet DEBIAN.
+
 
 ARTICLE PREMIER - DENOMINATION
 ==============================
-
 
 Il est fondé entre les adhérents aux présents statuts une association
 régie par la loi du 1er juillet 1901 et le décret du 16 août
@@ -42,26 +41,26 @@ du Projet Debian, des systèmes d'exploitation libres issus du Projet
 Debian et de manière plus générale toute contribution aux Logiciels dits
 « Libres » tant sur le territoire français que dans tout pays tiers.
 
-Le soutien au projet DEBIAN, implique également et notamment le soutien
-à toutes les associations soutenant le projet DEBIAN ainsi qu’au DEBIAN
-PROJECT LEADER.
+Le soutien au projet DEBIAN implique également et notamment le soutien
+à toutes les associations soutenant le projet DEBIAN ainsi qu’au
+DEBIAN PROJECT LEADER.
 
 L’association a également pour objet de regrouper l’ensemble des
 contributeurs francophones au projet DEBIAN (développeurs, traducteurs,
 utilisateurs etc…).
 
 Ainsi, et sans que cette liste ne puisse être limitative, l’association
-sera, notamment amenée à réaliser les actions suivantes :
+sera notamment amenée à réaliser les actions suivantes :
 
-* organisation et/ou participation à différentes manifestations, conférences ou expositions de promotion de l'informatique libre en France et à l’étranger;
+* organisation et/ou participation à différentes manifestations, conférences ou expositions de promotion de l'informatique libre en France et à l’étranger ;
 
-* réalisation d’opérations de communications médiatiques (tels que les communiqués de presse etc…), ainsi que tous les actes nécessaires auxdites communications (tels que traductions, diffusion etc…) de communiqués de presse provenant de la « communauté » DEBIAN dans le monde entier.
+* réalisation d’opérations de communications médiatiques (tels que les communiqués de presse etc…), ainsi que tous les actes nécessaires auxdites communications (tels que traductions, diffusion etc…) de communiqués de presse provenant de la « communauté » DEBIAN dans le monde entier ;
 
-* rédaction et/ou participation à la rédaction d'articles consacrés aux systèmes d'exploitation libres, et à ceux du Projet Debian en particulier;
+* rédaction et/ou participation à la rédaction d'articles consacrés aux systèmes d'exploitation libres, et à ceux du Projet Debian en particulier ;
 
-* réalisation d’opération de promotion pour le développement dans l’utilisation des logiciels libres utilisés dans le projet DEBIAN ainsi que de manière générale les systèmes d’exploitation libres.
+* réalisation d’opérations de promotion pour le développement dans l’utilisation des logiciels libres utilisés dans le projet DEBIAN ainsi que de manière générale les systèmes d’exploitation libres ;
 
-* organisation et ou participation à des actions d'information et de sensibilisation en direction des instances locales, nationales ou européennes.
+* organisation et ou participation à des actions d'information et de sensibilisation en direction des instances locales, nationales ou européennes ;
 
 * recueillir des ressources facilitant le maintien et le développement du projet DEBIAN.
 
@@ -92,7 +91,7 @@ a) Les membres d’honneur
 ------------------------
 
 Les membres d'honneur sont élus à la majorité des voix lors des
-Assemblées Générales, sur proposition du Conseil d'Administration.
+Assemblées Générales sur proposition du Conseil d'Administration.
 
 Ils sont choisis parmi les membres actifs, avec l'accord des intéressés,
 pour les services qu'ils ont rendus ou rendent à l'Association. Ils sont
@@ -110,7 +109,7 @@ membres de l'Assemblée Générale avec voix consultative. Les membres
 bienfaiteurs ne peuvent pas faire partie du Conseil d'Administration.
 
 c) Les membres actifs ou adhérents
----------------------------------- 
+--------------------------------- 
 
 Les membres actifs sont des personnes physiques. Ils acquittent la
 cotisation statutaire d'un montant fixé annuellement par l'Assemblée
@@ -128,8 +127,8 @@ bulletin d'adhésion envoyé au siège de l'Association.
 Le Conseil d'Administration peut rejeter toute demande d'adhésion si la
 majorité des deux tiers de ses membres le décide.
 
-Cette décision sera, si le demandeur non admis ne s'y oppose pas, portée
-à la connaissance des membres via la liste de diffusion de
+Cette décision sera, si le demandeur non admis ne s'y oppose pas,
+portée à la connaissance des membres via la liste de diffusion de
 l'Association. Le Conseil d'Administration, en cas de refus, n'a pas à
 motiver sa décision.
 
@@ -142,22 +141,22 @@ La qualité de membre se perd par :
 a) La démission
 
 Toute démission est soumise au formalisme suivant : envoi d’une lettre
-recommandé avec accusé de réception
+recommandée avec accusé de réception
 
-b) Le décès;
+b) Le décès ;
 
 c) La radiation
 
 La radiation est prononcée par le conseil d'administration pour
 non-paiement de la cotisation dans le délai de trente jours suivant
 l’appel à cotisation, absence de demande de maintien (en cas de
-cotisation à 0 €) ou pour motif grave, l'intéressé ayant été invité (par
-courrier électronique signé adressé à la liste de diffusion électronique
-du Bureau à fournir des explications.
+cotisation à 0 €) ou pour motif grave, l'intéressé ayant été
+invité (par courrier électronique signé adressé à la liste de
+diffusion électronique du Bureau) à fournir des explications.
 
 Le membre peut exercer un recours écrit devant le Conseil
 d’Administration dans un délai de 15 jours suivant la notification de la
-décision de radiation. Le Conseil es tenu de statuer sur le recours dans
+décision de radiation. Le Conseil est tenu de statuer sur le recours dans
 un délai maximum d’un mois.
 
 
@@ -165,20 +164,20 @@ ARTICLE 9 - AFFILIATION
 =======================
 
 La présente association est affiliée à DEBIAN et se conforme aux statuts
-et au règlement intérieur de ce regroupement (nom, logo, etc.).
+et au Règlement Intérieur de ce regroupement (nom, logo, etc.).
 
 Elle peut par ailleurs adhérer à d’autres associations, unions ou
-regroupements par décision du conseil d’administration.
+regroupements, par décision du conseil d’administration.
 
 
 ARTICLE 10 - RESSOURCES
 =======================
 
 Les ressources de l'association comprennent :
-1° Le montant des droits d'entrée et des cotisations;
-2° Les subventions de l'Etat, des départements et des communes.
+1° Le montant des droits d'entrée et des cotisations ;
+2° Les subventions de l'Etat, des départements et des communes ;
 3° Les produits résultants des activités visées à l’article 2 des
-présents statuts.
+présents statuts ;
 4° Toutes les ressources autorisées par les lois et règlements en
 vigueur (dons etc….).
 
@@ -191,11 +190,14 @@ ARTICLE 11 - DISPOSITIONS COMMUNES AUX ASSEMBLEES
 
 Une Assemblée Générale électronique se déroule en deux phases :
 
-* une première phase de discussion, où l'ordre du jour est détaillé, et discuté point par point ;
+* une première phase de discussion, où l'ordre du jour est détaillé, et discuté point par point ;
 
-* une phase de vote pendant laquelle les différents points de l'ordre du jour nécessitant un vote sont décidés, et pendant laquelle le Conseil d'Administration est renouvelé.
+* une phase de vote pendant laquelle les différents points de l'ordre du jour nécessitant un vote sont décidés, et pendant laquelle le Conseil d'Administration est renouvelé ;
 
-La phase de discussion doit être d'au moins une semaine (7 jours) en période normale, et de deux semaines (14 jours) en période de vacances scolaires (toutes zones confondues). La phase de vote doit être d'au moins 24 heures.
+La phase de discussion doit être d'au moins une semaine (7 jours) en
+période normale, et de deux semaines (14 jours) en période de vacances
+scolaires (toutes zones confondues). La phase de vote doit être d'au
+moins 24 heures.
 
 
 11-2 LES CONVOCATIONS
@@ -208,7 +210,7 @@ l'Association par le Secrétaire.
 Les courriers électroniques signés sont certifiés par une clé
 cryptographique PGP/GPG personnelle propre à l'auteur du courrier
 électronique. Les modalités techniques de mise en œuvre des convocations
-seront précisées par le règlement intérieur.
+seront précisées par le Règlement Intérieur.
 
 L'ordre du jour de l'Assemblée Générale est indiqué sur les
 convocations.
@@ -235,54 +237,55 @@ un planning précis détaillant les phases de discussions et de vote.
 11-3 VOTES
 ----------
 
--Droit de véto :
+- Droit de véto :
 
 Les décisions de l'Assemblée Générale sont soumises à un droit de véto
 des Développeurs Debian.
 
 Les Développeurs Debian disposant du droit de véto doivent:
-
-* être membres de l'Association;
-
-* être présents physiquement lors de l'Assemblée Générale.
+* Être membres de l'Association ;
+* Être présents physiquement lors de l'Assemblée Générale.
 
 Le véto est décidé à la majorité simple des Développeurs Debian
 correspondant à ces critères.
 
--Procédures et modalités des votes :
+- Procédures et modalités des votes :
 
-Pour avoir le droit de vote, les membres doivent satisfaire aux
-conditions suivantes :
+  Pour avoir le droit de vote, les membres doivent satisfaire aux
+conditions suivantes:
+  * Être à jour de cotisation à la date de l'Assemblée Générale ;
 
-* être à jour de cotisation à la date de l'Assemblée Générale ;
+  * Tous les membres de l'Association peuvent se faire représenter par un autre membre ;
+  
+  * Pour les assemblées dites physiques, un membre présent ayant le droit de vote ne peut avoir qu'au maximum deux mandats de représentation ;
 
-* tous les membres de l'Association peuvent se faire représenter par un autre membre
+  * Pour les assemblées dites électroniques, la représentation par mandat n’est pas possible.
 
-* pour les assemblées dites physiques, un membre présent ayant le droit de vote ne peut avoir qu'au maximum deux mandats de représentation.
+Le vote électronique est effectué en ligne grâce à un logiciel
+adéquat qui permette de s'assurer l'identité du votant.
 
-* pour les assemblées dites électroniques, la représentation par mandat n’est pas possible.
+Le logiciel de vote n'autorise le vote que pendant les créneaux
+précis, communiqués dans la convocation, sous responsabilité d'un
+membre du bureau, ou de deux membres du Conseil d'Administration.
+Les procédés de certification et de sécurisation des votes sont
+précisés dans le Règlement Intérieur.
 
-Le vote électronique est effectué en ligne grâce à un logiciel adéquat, qui permette de s'assurer l'identité du votant.
-
-Le logiciel de vote n'autorise le vote que pendant les créneaux précis,
-communiqués dans la convocation, sous responsabilité d'un membre du
-bureau, ou de deux membres du Conseil d'Administration. Les procédés de
-certification et de sécurisation des votes sont précisés dans le
-règlement intérieur.
-
-Les décisions sont prises à la majorité simple des suffrages exprimes,
+Les décisions sont prises à la majorité simple des suffrages exprimés,
 le quorum ne pouvant être inférieur à un tiers (les règles de quorum
-pour le vote électronique sont précisées dans le règlement intérieur).
+pour le vote électronique sont précisées dans le Règlement Intérieur).
 
-* les décisions sont prises à bulletins ouverts ;
+* les décisions sont prises à bulletins ouverts  ;
 
-* en cas de partage, lors de votes, la voix du Président est prépondérante.
+* en cas de partage, lors des votes, la voix du Président est prépondérante.
 
 
 ARTICLE 12- ASSEMBLEE GENERALE ORDINAIRE
 ========================================
 
-L'assemblée générale ordinaire comprend tous les membres de l'association à quelque titre qu'ils soient. Elle se réunit chaque année.
+L'assemblée générale ordinaire comprend tous les membres de
+l'association à quelque titre qu'ils soient. Elle se réunit chaque
+année.
+
 Le président, assisté des membres du conseil, préside l'assemblée et
 expose la situation morale ou l’activité de l'association.
 
@@ -293,7 +296,7 @@ Ne peuvent être abordés que les points inscrits à l'ordre du jour.
 
 Les décisions sont prises à la majorité des voix des suffrages exprimés,
 suivant le vote électronique dont les modalités sont fixées par le
-règlement intérieur.
+Règlement Intérieur.
 
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement
 des membres sortants du conseil.
@@ -328,7 +331,6 @@ ARTICLE 14 - CONSEIL D'ADMINISTRATION
 14-1 COMPOSITION ET MODALITES DE FONCTIONNEMENT
 -----------------------------------------------
 
-
 L'association est dirigée par un conseil de neuf (9) membres, élus pour
 une année par l'assemblée générale. Les membres sont rééligibles. Ne
 sont éligibles au Conseil d’administration que les membres (depuis six
@@ -343,22 +345,23 @@ intérieur.
 En cas de vacances, le conseil pourvoit provisoirement au remplacement
 de ses membres. Il est procédé à leur remplacement définitif par la plus
 prochaine assemblée générale. Les pouvoirs des membres ainsi élus
-prennent fin à l'expiration le mandat des membres remplacés.
+prennent fin à l'expiration du mandat des membres remplacés.
 
 Le conseil d'administration se réunit au moins une fois tous les six
 mois, sur convocation du président, ou à la demande du quart de ses
 membres.
 
-Les décisions sont prises à la majorité des voix; en cas de partage,
+Les décisions sont prises à la majorité des voix ; en cas de partage,
 la voix du président est prépondérante.
+
 Tout membre du conseil qui, sans excuse, n'aura pas pris part à des
-délibérations électroniques pendant trois mois consécutifs ou qui n’aura
-pas assisté à deux réunions consécutives sera considéré comme
-démissionnaire.
+délibérations électroniques pendant trois mois consécutifs ou qui
+n’aura pas assisté à deux réunions consécutives sera considéré
+comme démissionnaire.
 
 Les élections, désignations des membres du conseil d’administration sont
 réalisées par voie électronique. Les modalités de mise en œuvre des
-votes électroniques sont précisées par le règlement intérieur.
+votes électroniques sont précisées par le Règlement Intérieur.
 
 14-2 POUVOIRS
 -------------
@@ -387,33 +390,33 @@ conformité avec le Règlement Intérieur.
 ARTICLE 15 - LE BUREAU
 ======================
 
-
 Le conseil d'administration élit parmi ses membres, à bulletin
-secret , un bureau composé de :
-* Un président;
-* Un secrétaire;
+secret, un bureau composé de :
+* Un président ;
+* Un secrétaire ;
 * Un trésorier.
 
 Les fonctions de président et de trésorier ne sont pas cumulables.
 Les fonctions, attributions et pouvoirs respectifs des membres du
-bureau sont prévus par le règlement intérieur.
+bureau sont prévus par le Règlement Intérieur.
 
 
 ARTICLE 16 - INDEMNITES
 =======================
 
 Toutes les fonctions, y compris celles des membres du conseil
-d’administration et du bureau, sont gratuites et bénévoles. Seuls les
-frais occasionnés par l’accomplissement de leur mandat sont remboursés
-sur justificatifs. Le rapport financier présenté à l’assemblée générale
-ordinaire présente, par bénéficiaire, les remboursements de frais de
-mission, de déplacement ou de représentation.
+d’administration et du bureau, sont gratuites et bénévoles. Seuls
+les frais occasionnés par l’accomplissement de leur mandat sont
+remboursés sur justificatifs. Le rapport financier présenté à
+l’assemblée générale ordinaire présente, par bénéficiaire,
+les remboursements de frais de mission, de déplacement ou de
+représentation.
 
 
 ARTICLE 17 - REGLEMENT INTERIEUR
 ================================
 
-Un règlement intérieur est établi par le conseil d'administration.
+Un Règlement Intérieur est établi par le conseil d'administration.
 Ce règlement est destiné à fixer les divers points non prévus par les
 présents statuts, notamment ceux qui ont trait à l'administration
 interne de l'association.
@@ -437,14 +440,14 @@ Le Bureau, le Conseil d'Administration et l'Association seront dotés
 chacun d'une liste de diffusion. Les adresses électroniques de ces
 listes sont spécifiées dans le Règlement Intérieur.
 
- 
+
 ARTICLE 19 - MODIFICATIONS
 ==========================
 
 19-1 MODIFICATION DU REGLEMENT INTERIEUR
 ----------------------------------------
 
-Toute proposition de modification du Règlement Intérieur sera diffusée
+Toute proposition de modifications du Règlement Intérieur sera diffusée
 par le Conseil d'Administration auprès des membres de l'Association au
 moins 2 (deux) semaines avant la date prévue de mise en application.
 
@@ -460,8 +463,8 @@ l'Association,
 19-2 MODIFICATION STATUTAIRES
 -----------------------------
 
-L’assemblée générale extraordinaire a compétence exclusive pour procéder
-aux modifications statutaires à la majorité des deux tiers.
+L’assemblée générale extraordinaire a compétence exclusive pour
+procéder aux modifications statutaires à la majorité des deux tiers.
 
 
 ARTICLE 20 - REPRESENTATION
@@ -479,7 +482,7 @@ En cas de dissolution prononcée selon les modalités prévues par les
 présents statuts, un ou plusieurs liquidateurs sont nommés, et l'actif,
 s'il y a lieu, est dévolu conformément aux décisions de l’assemblée
 générale extraordinaire qui statue sur la dissolution ou à une
-association ayant des butssimilaires.
+association ayant des buts similaires.
 
 «  Fait à Paris , le TODO 2013.
 
