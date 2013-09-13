@@ -8,7 +8,7 @@ du décret du 16 août 1901.
 
 
 PREAMBULE
-========= 
+=========
 
 Le projet DEBIAN (http://www.debian.org <http://www.debian.org/>)
 est un projet bénévole visant à la création et à la production de
@@ -54,7 +54,7 @@ sera notamment amenée à réaliser les actions suivantes :
 
 * organisation et/ou participation à différentes manifestations, conférences ou expositions de promotion de l'informatique libre en France et à l’étranger ;
 
-* réalisation d’opérations de communications médiatiques (tels que les communiqués de presse etc…), ainsi que tous les actes nécessaires auxdites communications (tels que traductions, diffusion etc…) de communiqués de presse provenant de la « communauté » DEBIAN dans le monde entier ;
+* réalisation d’opérations de communications médiatiques (telles que les communiqués de presse etc…), ainsi que tous les actes nécessaires auxdites communications (tels que traductions, diffusion etc…) de communiqués de presse provenant de la « communauté » DEBIAN dans le monde entier ;
 
 * rédaction et/ou participation à la rédaction d'articles consacrés aux systèmes d'exploitation libres, et à ceux du Projet Debian en particulier ;
 
@@ -69,8 +69,8 @@ ARTICLE 3 - SIEGE SOCIAL
 
 Le siège social est fixé à : 7bis rue de la Montât, 42 290 Sorbiers.
 
-Il pourra être transféré par simple décision du conseil
-d'administration.
+Il pourra être transféré par simple décision du Conseil
+d'Administration.
 
 Article 4 - DUREE
 =================
@@ -109,7 +109,7 @@ membres de l'Assemblée Générale avec voix consultative. Les membres
 bienfaiteurs ne peuvent pas faire partie du Conseil d'Administration.
 
 c) Les membres actifs ou adhérents
---------------------------------- 
+----------------------------------
 
 Les membres actifs sont des personnes physiques. Ils acquittent la
 cotisation statutaire d'un montant fixé annuellement par l'Assemblée
@@ -143,11 +143,11 @@ a) La démission
 Toute démission est soumise au formalisme suivant : envoi d’une lettre
 recommandée avec accusé de réception
 
-b) Le décès ;
+b) Le décès
 
 c) La radiation
 
-La radiation est prononcée par le conseil d'administration pour
+La radiation est prononcée par le Conseil d'Administration pour
 non-paiement de la cotisation dans le délai de trente jours suivant
 l’appel à cotisation, absence de demande de maintien (en cas de
 cotisation à 0 €) ou pour motif grave, l'intéressé ayant été
@@ -167,7 +167,7 @@ La présente association est affiliée à DEBIAN et se conforme aux statuts
 et au Règlement Intérieur de ce regroupement (nom, logo, etc.).
 
 Elle peut par ailleurs adhérer à d’autres associations, unions ou
-regroupements, par décision du conseil d’administration.
+regroupements, par décision du Conseil d’Administration.
 
 
 ARTICLE 10 - RESSOURCES
@@ -179,7 +179,7 @@ Les ressources de l'association comprennent :
 3° Les produits résultants des activités visées à l’article 2 des
 présents statuts ;
 4° Toutes les ressources autorisées par les lois et règlements en
-vigueur (dons etc….).
+vigueur (dons, etc…).
 
 
 ARTICLE 11 - DISPOSITIONS COMMUNES AUX ASSEMBLEES
@@ -256,7 +256,7 @@ conditions suivantes:
   * Être à jour de cotisation à la date de l'Assemblée Générale ;
 
   * Tous les membres de l'Association peuvent se faire représenter par un autre membre ;
-  
+
   * Pour les assemblées dites physiques, un membre présent ayant le droit de vote ne peut avoir qu'au maximum deux mandats de représentation ;
 
   * Pour les assemblées dites électroniques, la représentation par mandat n’est pas possible.
@@ -286,8 +286,9 @@ L'assemblée générale ordinaire comprend tous les membres de
 l'association à quelque titre qu'ils soient. Elle se réunit chaque
 année.
 
-Le président, assisté des membres du conseil, préside l'assemblée et
-expose la situation morale ou l’activité de l'association.
+Le président, assisté des membres du Conseil d'Administration, préside
+l'assemblée et expose la situation morale ou l’activité de
+l'association.
 
 Le trésorier rend compte de sa gestion et soumet les comptes annuels
 (bilan, compte de résultat et annexe) à l'approbation de l'assemblée.
@@ -299,7 +300,7 @@ suivant le vote électronique dont les modalités sont fixées par le
 Règlement Intérieur.
 
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement
-des membres sortants du conseil.
+des membres sortants du Conseil d'Administration.
 
 Les décisions des assemblées générales s’imposent à tous les membres,
 y compris absents ou représentés.
@@ -331,42 +332,44 @@ ARTICLE 14 - CONSEIL D'ADMINISTRATION
 14-1 COMPOSITION ET MODALITES DE FONCTIONNEMENT
 -----------------------------------------------
 
-L'association est dirigée par un conseil de neuf (9) membres, élus pour
-une année par l'assemblée générale. Les membres sont rééligibles. Ne
-sont éligibles au Conseil d’administration que les membres (depuis six
-mois au sein de l’association) majeurs, dotés de la capacité juridique
-et à jour de leurs cotisations.
+L'association est dirigée par un Conseil d'Administration de neuf (9)
+membres, élus pour une année par l'assemblée générale. Les membres
+sont rééligibles. Ne sont éligibles au Conseil d’Administration que
+les membres (depuis six mois au sein de l’association) majeurs, dotés
+de la capacité juridique et à jour de leurs cotisations.
 
-Le conseil étant renouvelé chaque année par tiers, la première année.
+Le Conseil d'Administration étant renouvelé chaque année par tiers, la
+première année.
 
-Les modalités de renouvellement sont précisées par le règlement
-intérieur.
+Les modalités de renouvellement sont précisées par le Règlement
+Intérieur.
 
-En cas de vacances, le conseil pourvoit provisoirement au remplacement
-de ses membres. Il est procédé à leur remplacement définitif par la plus
-prochaine assemblée générale. Les pouvoirs des membres ainsi élus
-prennent fin à l'expiration du mandat des membres remplacés.
+En cas de vacances, le Conseil d'Administration pourvoit provisoirement
+au remplacement de ses membres. Il est procédé à leur remplacement
+définitif par la plus prochaine assemblée générale. Les pouvoirs des
+membres ainsi élus prennent fin à l'expiration du mandat des membres
+remplacés.
 
-Le conseil d'administration se réunit au moins une fois tous les six
+Le Conseil d'Administration se réunit au moins une fois tous les six
 mois, sur convocation du président, ou à la demande du quart de ses
 membres.
 
 Les décisions sont prises à la majorité des voix ; en cas de partage,
 la voix du président est prépondérante.
 
-Tout membre du conseil qui, sans excuse, n'aura pas pris part à des
-délibérations électroniques pendant trois mois consécutifs ou qui
-n’aura pas assisté à deux réunions consécutives sera considéré
-comme démissionnaire.
+Tout membre du Conseil d'Administration qui, sans excuse, n'aura pas
+pris part à des délibérations électroniques pendant trois mois
+consécutifs ou qui n’aura pas assisté à deux réunions consécutives
+sera considéré comme démissionnaire.
 
-Les élections, désignations des membres du conseil d’administration sont
+Les élections, désignations des membres du Conseil d’Administration sont
 réalisées par voie électronique. Les modalités de mise en œuvre des
 votes électroniques sont précisées par le Règlement Intérieur.
 
 14-2 POUVOIRS
 -------------
 
-Le Conseil d’administration est doté des pouvoirs les plus étendus pour
+Le Conseil d’Administration est doté des pouvoirs les plus étendus pour
 gérer et administrer l'association, à l'exception des pouvoirs attribués
 spécifiquement à l'Assemblée Générale.
 
@@ -390,7 +393,7 @@ conformité avec le Règlement Intérieur.
 ARTICLE 15 - LE BUREAU
 ======================
 
-Le conseil d'administration élit parmi ses membres, à bulletin
+Le Conseil d'Administration élit parmi ses membres, à bulletin
 secret, un bureau composé de :
 * Un président ;
 * Un secrétaire ;
@@ -404,8 +407,8 @@ bureau sont prévus par le Règlement Intérieur.
 ARTICLE 16 - INDEMNITES
 =======================
 
-Toutes les fonctions, y compris celles des membres du conseil
-d’administration et du bureau, sont gratuites et bénévoles. Seuls
+Toutes les fonctions, y compris celles des membres du Conseil
+d’Administration et du bureau, sont gratuites et bénévoles. Seuls
 les frais occasionnés par l’accomplissement de leur mandat sont
 remboursés sur justificatifs. Le rapport financier présenté à
 l’assemblée générale ordinaire présente, par bénéficiaire,
@@ -416,7 +419,7 @@ représentation.
 ARTICLE 17 - REGLEMENT INTERIEUR
 ================================
 
-Un Règlement Intérieur est établi par le conseil d'administration.
+Un Règlement Intérieur est établi par le Conseil d'Administration.
 Ce règlement est destiné à fixer les divers points non prévus par les
 présents statuts, notamment ceux qui ont trait à l'administration
 interne de l'association.
