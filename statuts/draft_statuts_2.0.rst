@@ -67,7 +67,7 @@ sera notamment amenée à réaliser les actions suivantes :
 ARTICLE 3 - SIEGE SOCIAL
 ========================
 
-Le siège social est fixé à : 7bis rue de la Montât, 42 290 Sorbiers.
+Le siège social est fixé à : 7bis rue de la Montat, 42 290 Sorbiers.
 
 Il pourra être transféré par simple décision du Conseil
 d'Administration.
