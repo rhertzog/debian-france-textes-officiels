@@ -10,19 +10,19 @@ CE DOCUMENT EST UN BROUILLON DE TRAVAIL
 PRÉAMBULE
 =========
 
-Le projet DEBIAN (http://www.debian.org <http://www.debian.org/>)
-est un projet bénévole visant à la création et à la production de
-systèmes d'exploitation libres, projet auquel contribuent les
-développeurs DEBIAN (personnes physiques contribuant au Projet Debian
-dont la clé cryptographique PGP/GPG personnelle figure dans la liste
-officielle des clés cryptographiques du Projet Debian, telle que publiée
-sur le site internet : http://keyring.debian.org).
+Le projet DEBIAN (http://www.debian.org) est un projet bénévole d'ampleur
+internationale visant à la création et à la production de systèmes
+d'exploitation libres. Les MEMBRES DU PROJET DEBIAN sont des personnes
+physiques disposant du droit de vote selon la constitution Debian
+(http://www.debian.org/devel/constitution) et d'une clé cryptographique
+PGP/GPG personnelle qui figure dans la liste officielle des clés
+cryptographiques du Projet Debian, telle que publiée sur
+http://keyring.debian.org.
 
-Ce projet bénévole est constitué par la communauté mondiale de
-développeurs et acteurs qui contribuent à son développement. Tous les
-ans, la communauté désigne le DEBIAN PROJECT LEADER dit « DPL »,
-lequel est chargé de représenter le projet et supporte toutes les
-responsabilités inhérentes au développement du projet DEBIAN.
+Tous les ans, les MEMBRES DU PROJET DEBIAN désignent le DEBIAN PROJECT
+LEADER dit « DPL », lequel est chargé de représenter le projet et
+supporte, entre autres, toutes les responsabilités inhérentes à la gestion
+des ressources du projet DEBIAN.
 
 ARTICLE 1 - DÉNOMINATION
 ========================
@@ -254,15 +254,15 @@ un planning précis détaillant les phases de discussions et de vote.
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Les décisions de l'Assemblée Générale sont soumises à un droit de véto
-des Développeurs Debian.
+des MEMBRES DU PROJET DEBIAN.
 
-Les Développeurs Debian disposant du droit de véto doivent:
+Les MEMBRES DU PROJET DEBIAN disposant du droit de véto doivent:
 
-* Être membres de l'Association ;
+* Être membres de l'Association Debian France ;
 
 * Être présents physiquement lors de l'Assemblée Générale.
 
-Le véto est décidé à la majorité simple des Développeurs Debian
+Le véto est décidé à la majorité simple des MEMBRES DU PROJET DEBIAN
 correspondant à ces critères.
 
 10-3-2 - Procédures et modalités des votes
