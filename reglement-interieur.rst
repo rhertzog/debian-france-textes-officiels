@@ -4,9 +4,6 @@ RÈGLEMENT INTÉRIEUR DE L'ASSOCIATION DEBIAN FRANCE
 
 CE DOCUMENT EST UN BROUILLON DE TRAVAIL
 
-Préambule
-=========
-
 Conformément aux Statuts de l'Association Debian France, le présent Règlement
 Intérieur est établi par le Conseil d'Administration.
 
@@ -16,22 +13,27 @@ en date du XX/XX/2013.
 Tout adhérent s'engage au vu des Statuts et du Règlement Intérieur de
 l'Association.
 
-ARTICLE 0 - Définitions
-=======================
+PRÉAMBULE
+=========
 
-Dans les présents statuts, les termes suivants sont définis :
+Le projet DEBIAN (http://www.debian.org) est un projet bénévole d'ampleur
+internationale visant à la création et à la production de systèmes
+d'exploitation libres. Les MEMBRES DU PROJET DEBIAN sont des personnes
+physiques disposant du droit de vote selon la constitution Debian
+(http://www.debian.org/devel/constitution) et d'une clé cryptographique
+PGP/GPG personnelle qui figure dans la liste officielle des clés
+cryptographiques du Projet Debian, telle que publiée sur
+http://keyring.debian.org.
 
-* projet Debian : http://www.debian.org, projet bénévole visant à la production
-  de systèmes d'exploitation libres ;
+Tous les ans, les MEMBRES DU PROJET DEBIAN désignent le DEBIAN PROJECT
+LEADER dit « DPL », lequel est chargé de représenter le projet et
+supporte, entre autres, toutes les responsabilités inhérentes à la gestion
+des ressources du projet DEBIAN.
 
-* développeur Debian : membre du projet Debian disposant du droit de vote selon
-  la constitution Debian (http://www.debian.org/devel/constitution) et d'une clé
-  cryptographique PGP/GPG personnelle qui figure dans la liste officielle des
-  clés cryptographiques du Projet Debian, telle que publiée sur
-  http://keyring.debian.org ;
-
-* courrier électronique signé : courrier électronique signé par une clé
-  cryptographique PGP/GPG personnelle propre à l'auteur du courrier électronique.
+Un COURRIER ÉLECTRONIQUE SIGNÉ est un courrier électronique disposant
+d'une signature électronique réalisée à l'aide d'une clé cryptographique
+PGP/GPG personnelle propre à l'auteur dudit courrier et qui permet de
+l'authentifier de façon fiable.
 
 ARTICLE 1 - Adhésion, Cotisations
 =================================
@@ -97,7 +99,7 @@ l'élection au Conseil d'Administration.
 ------------------------------
 
 Les candidatures au Conseil d'Administration doivent être adressées par
-courrier électronique signé au Bureau au moins sept jours avant la
+COURRIER ÉLECTRONIQUE SIGNÉ au Bureau au moins sept jours avant la
 date de l'Assemblée Générale. Celles-ci devront être accompagnées d'une
 présentation du candidat et de sa profession de foi.
 
@@ -112,7 +114,7 @@ précisées somme suit :
   stipuler la date de l'Assemblée Générale pour laquelle il a été établi ;
 
 * il peut être manuscrit et signé de la main de son auteur, ou rédigé sous la
-  forme d'un courrier électronique signé. La clé cryptographique PGP/GPG utilisée
+  forme d'un COURRIER ÉLECTRONIQUE SIGNÉ. La clé cryptographique PGP/GPG utilisée
   devra avoir été signée au préalable par au moins un membre du Conseil
   d'Administration.
 

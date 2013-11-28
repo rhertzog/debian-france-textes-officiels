@@ -19,10 +19,10 @@ PGP/GPG personnelle qui figure dans la liste officielle des clés
 cryptographiques du Projet Debian, telle que publiée sur
 http://keyring.debian.org.
 
-Tous les ans, les MEMBRES DU PROJET DEBIAN désignent le DEBIAN PROJECT
-LEADER dit « DPL », lequel est chargé de représenter le projet et
-supporte, entre autres, toutes les responsabilités inhérentes à la gestion
-des ressources du projet DEBIAN.
+Un COURRIER ÉLECTRONIQUE SIGNÉ est un courrier électronique disposant
+d'une signature électronique réalisée à l'aide d'une clé cryptographique
+PGP/GPG personnelle propre à l'auteur dudit courrier et qui permet de
+l'authentifier de façon fiable.
 
 ARTICLE 1 - DÉNOMINATION
 ========================
@@ -154,7 +154,7 @@ La radiation est prononcée par le Conseil d'Administration pour
 non-paiement de la cotisation dans le délai de trente jours suivant
 l'appel à cotisation, absence de demande de maintien (en cas de
 cotisation à 0 €) ou pour motif grave, l'intéressé ayant été
-invité (par courrier électronique signé adressé à la liste de
+invité (par COURRIER ÉLECTRONIQUE SIGNÉ adressé à la liste de
 diffusion électronique du Bureau) à fournir des explications.
 
 Le membre peut exercer un recours écrit devant le Conseil
