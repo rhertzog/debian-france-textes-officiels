@@ -35,13 +35,9 @@ ARTICLE 2 - BUT - OBJET
 =======================
 
 Cette association a pour objet la promotion et l'aide au développement
-du Projet DEBIAN, des systèmes d'exploitation libres issus du Projet
+du projet DEBIAN, des systèmes d'exploitation libres issus du projet
 DEBIAN et de manière plus générale toute contribution aux Logiciels dits
 « Libres » tant sur le territoire français que dans tout pays tiers.
-
-Le soutien au projet DEBIAN implique également et notamment le soutien
-à toutes les associations soutenant le projet DEBIAN ainsi qu'au
-DEBIAN PROJECT LEADER.
 
 L'association a également pour objet de regrouper l'ensemble des
 contributeurs francophones au projet DEBIAN (développeurs, traducteurs,
@@ -51,29 +47,27 @@ Ainsi, et sans que cette liste ne puisse être limitative, l'association
 sera notamment amenée à réaliser les actions suivantes :
 
 * organisation et/ou participation à différentes manifestations,
-  conférences ou expositions de promotion de l'informatique libre en
-  France et à l'étranger ;
+  conférences ou expositions ;
 
-* réalisation d'opérations de communications médiatiques (telles que
-  les communiqués de presse, etc.), ainsi que tous les actes nécessaires
-  auxdites communications (tels que traductions, diffusion, etc.) de
-  communiqués de presse provenant de la « communauté » DEBIAN dans le
-  monde entier ;
+* organisation et/ou participation à des opérations de communications
+  médiatiques (telles que les communiqués de presse, rédaction
+  d'articles, etc.) ainsi que tous les actes nécessaires auxdites
+  opérations (tels que traductions, diffusion, etc.) ;
 
-* rédaction et/ou participation à la rédaction d'articles consacrés
-  aux systèmes d'exploitation libres, et à ceux du Projet Debian en
-  particulier ;
+* organisation et/ou participation à des actions d'informations à
+  destination de toute sorte de publics (particuliers, entreprises,
+  collectivités, institutionnels, etc.) afin de promouvoir l'usage des
+  logiciels libres, et des systèmes d'exploitation du projet DEBIAN en
+  particulier ;
 
-* réalisation d'opérations de promotion pour le développement dans
-  l'utilisation des logiciels libres utilisés dans le projet DEBIAN
-  ainsi que de manière générale les systèmes d'exploitation libres ;
+* collecte, gestion et distribution de ressources destinées à soutenir
+  le projet DEBIAN, notamment, mais pas exclusivement, en assurant le rôle
+  de « Trusted Organisation » pour le compte du projet DEBIAN, tel que
+  défini au `point 9 de la constitution Debian
+  <http://www.debian.org/devel/constitution.en.html#item-9>`_ ;
 
-* organisation et ou participation à des actions d'information et de
-  sensibilisation en direction des instances locales, nationales ou
-  européennes ;
-
-* recueillir des ressources facilitant le maintien et le développement
-  du projet DEBIAN.
+* adhésion et soutien à d'autres associations dont certains des
+  objectifs rejoignent ceux de l'Association Debian France.
 
 ARTICLE 3 - SIÈGE SOCIAL
 ========================
