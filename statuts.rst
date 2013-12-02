@@ -172,7 +172,8 @@ Les ressources de l'association comprennent :
 
 * Le montant des droits d'entrée et des cotisations ;
 
-* Les subventions de l'État, des départements et des communes ;
+* Les subventions de l'État, des régions, des départements,
+  des communes, et autres collectivités territoriales ;
 
 * Les produits résultant des activités visées à l'article 2 des
   présents statuts ;
