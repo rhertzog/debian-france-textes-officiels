@@ -142,8 +142,9 @@ La qualité de membre se perd par :
 a) La démission
 ---------------
 
-Toute démission est soumise au formalisme suivant : envoi d'une lettre
-recommandée avec accusé de réception
+Toute démission doit être notifiée au Conseil d'Administration par l'envoi
+d'un courrier électronique à l'adresse indiquée dans le Règlement
+Intérieur.
 
 b) Le décès
 -----------
@@ -151,17 +152,18 @@ b) Le décès
 c) La radiation
 ---------------
 
-La radiation est prononcée par le Conseil d'Administration pour
-non-paiement de la cotisation dans le délai de trente jours suivant
-l'appel à cotisation, absence de demande de maintien (en cas de
-cotisation à 0 €) ou pour motif grave, l'intéressé ayant été
-invité (par COURRIER ÉLECTRONIQUE SIGNÉ adressé à la liste de
-diffusion électronique du Bureau) à fournir des explications.
+La radiation pour non-paiement de la cotisation dans le délai de trente
+jours suivant l'appel à cotisation (ou absence de demande de maintien, en
+cas de cotisation à 0 €) est prononcée par un membre du Bureau.
 
-Le membre peut exercer un recours écrit devant le Conseil
-d'Administration dans un délai de 15 jours suivant la notification de la
-décision de radiation. Le Conseil est tenu de statuer sur le recours dans
-un délai maximum d'un mois.
+La radiation pour faute grave est du ressort du Conseil d'Administration
+qui statue après avoir invité l'intéressé à fournir des explications
+par COURRIER ÉLECTRONIQUE SIGNÉ à destination du Conseil d'Administration.
+
+Le membre peut exercer un recours écrit devant le Conseil d'Administration
+dans un délai de 15 jours suivant la notification de la décision de
+radiation. Le Conseil est tenu de statuer sur le recours dans un délai
+maximum d'un mois.
 
 ARTICLE 8 - AFFILIATION
 =======================
