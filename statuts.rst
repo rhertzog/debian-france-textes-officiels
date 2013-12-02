@@ -165,16 +165,7 @@ dans un délai de 15 jours suivant la notification de la décision de
 radiation. Le Conseil est tenu de statuer sur le recours dans un délai
 maximum d'un mois.
 
-ARTICLE 8 - AFFILIATION
-=======================
-
-La présente association est affiliée à DEBIAN et se conforme aux statuts
-et au Règlement Intérieur de ce regroupement (nom, logo, etc.).
-
-Elle peut par ailleurs adhérer à d'autres associations, unions ou
-regroupements, par décision du Conseil d'Administration.
-
-ARTICLE 9 - RESSOURCES
+ARTICLE 8 - RESSOURCES
 =======================
 
 Les ressources de l'association comprennent :
@@ -189,11 +180,11 @@ Les ressources de l'association comprennent :
 * Toutes les ressources autorisées par les lois et règlements en
   vigueur (dons, etc.).
 
-ARTICLE 10 - DISPOSITIONS COMMUNES AUX ASSEMBLÉES
-=================================================
+ARTICLE 9 - DISPOSITIONS COMMUNES AUX ASSEMBLÉES
+================================================
 
-10-1 LE DÉROULEMENT DES ASSEMBLÉES ÉLECTRONIQUES
-------------------------------------------------
+9-1 LE DÉROULEMENT DES ASSEMBLÉES ÉLECTRONIQUES
+-----------------------------------------------
 
 Une Assemblée Générale électronique se déroule en deux phases :
 
@@ -209,8 +200,8 @@ période normale, et de deux semaines (14 jours) en période de vacances
 scolaires (toutes zones confondues). La phase de vote doit être d'au
 moins 24 heures.
 
-10-2 LES CONVOCATIONS
----------------------
+9-2 LES CONVOCATIONS
+--------------------
 
 Quinze jours avant la date fixée, les membres de l'Association sont
 convoqués par courrier électronique adressé à la liste de diffusion de
@@ -242,11 +233,11 @@ Les assemblées électroniques ne donnent pas lieu à des mandats.
 La convocation pour une Assemblée Générale électronique devra comporter
 un planning précis détaillant les phases de discussions et de vote.
 
-10-3 VOTES
-----------
+9-3 VOTES
+---------
 
-10-3-1 - Droit de véto
-~~~~~~~~~~~~~~~~~~~~~~
+9-3-1 - Droit de véto
+~~~~~~~~~~~~~~~~~~~~~
 
 Les décisions de l'Assemblée Générale sont soumises à un droit de véto
 des MEMBRES DU PROJET DEBIAN.
@@ -260,8 +251,8 @@ Les MEMBRES DU PROJET DEBIAN disposant du droit de véto doivent:
 Le véto est décidé à la majorité simple des MEMBRES DU PROJET DEBIAN
 correspondant à ces critères.
 
-10-3-2 - Procédures et modalités des votes
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+9-3-2 - Procédures et modalités des votes
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Pour avoir le droit de vote, les membres doivent satisfaire aux
 conditions suivantes:
@@ -296,7 +287,7 @@ pour le vote électronique sont précisées dans le Règlement Intérieur).
 * en cas de partage, lors des votes, la voix du Président est
   prépondérante.
 
-ARTICLE 11 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
+ARTICLE 10 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
 =========================================
 
 L'assemblée générale ordinaire comprend tous les membres de
@@ -322,7 +313,7 @@ des membres sortants du Conseil d'Administration.
 Les décisions des assemblées générales s'imposent à tous les membres,
 y compris absents ou représentés.
 
-ARTICLE 12 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
+ARTICLE 11 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
 ==============================================
 
 Si besoin est, ou sur la demande de la moitié plus un des membres
@@ -341,10 +332,10 @@ Si le quorum n'est pas atteint, le président peut convoquer une
 nouvelle assemblée dans un délai d'un mois minimum et de deux mois au
 maximum. Le quorum est d'un tiers.
 
-ARTICLE 13 - CONSEIL D'ADMINISTRATION
+ARTICLE 12 - CONSEIL D'ADMINISTRATION
 =====================================
 
-13-1 COMPOSITION ET MODALITÉS DE FONCTIONNEMENT
+12-1 COMPOSITION ET MODALITÉS DE FONCTIONNEMENT
 -----------------------------------------------
 
 L'association est dirigée par un Conseil d'Administration de neuf (9)
@@ -381,7 +372,7 @@ Les élections, désignations des membres du Conseil d'Administration sont
 réalisées par voie électronique. Les modalités de mise en œuvre des
 votes électroniques sont précisées par le Règlement Intérieur.
 
-13-2 POUVOIRS
+12-2 POUVOIRS
 -------------
 
 Le Conseil d'Administration est doté des pouvoirs les plus étendus pour
@@ -404,7 +395,7 @@ Le Conseil d'Administration peut mandater un ou plusieurs membres de
 l'association, pour une tâche précise et pour une durée déterminée, en
 conformité avec le Règlement Intérieur.
 
-ARTICLE 14 - LE BUREAU
+ARTICLE 13 - LE BUREAU
 ======================
 
 Le Conseil d'Administration élit parmi ses membres, à bulletin
@@ -420,7 +411,7 @@ Les fonctions de président et de trésorier ne sont pas cumulables.
 Les fonctions, attributions et pouvoirs respectifs des membres du
 bureau sont prévus par le Règlement Intérieur.
 
-ARTICLE 15 - INDEMNITÉS
+ARTICLE 14 - INDEMNITÉS
 =======================
 
 Toutes les fonctions, y compris celles des membres du Conseil
@@ -431,7 +422,7 @@ l'assemblée générale ordinaire présente, par bénéficiaire,
 les remboursements de frais de mission, de déplacement ou de
 représentation.
 
-ARTICLE 16 - RÈGLEMENT INTÉRIEUR
+ARTICLE 15 - RÈGLEMENT INTÉRIEUR
 ================================
 
 Un Règlement Intérieur est établi par le Conseil d'Administration.
@@ -439,7 +430,7 @@ Ce règlement est destiné à fixer les divers points non prévus par les
 présents statuts, notamment ceux qui ont trait à l'administration
 interne de l'association.
 
-ARTICLE 17 - COMMUNICATION INTERNE
+ARTICLE 16 - COMMUNICATION INTERNE
 ==================================
 
 Les outils de communication tels le téléphone, le courrier électronique
@@ -457,10 +448,10 @@ Le Bureau, le Conseil d'Administration et l'Association seront dotés
 chacun d'une liste de diffusion. Les adresses électroniques de ces
 listes sont spécifiées dans le Règlement Intérieur.
 
-ARTICLE 18 - MODIFICATIONS
+ARTICLE 17 - MODIFICATIONS
 ==========================
 
-18-1 MODIFICATION DU RÈGLEMENT INTÉRIEUR
+17-1 MODIFICATION DU RÈGLEMENT INTÉRIEUR
 ----------------------------------------
 
 Toute proposition de modifications du Règlement Intérieur sera diffusée
@@ -475,20 +466,20 @@ Toute modification du Règlement Intérieur validée par le Conseil
 d'Administration fera l'objet de publicité auprès des membres de
 l'Association,
 
-18-2 MODIFICATION STATUTAIRES
+17-2 MODIFICATION STATUTAIRES
 -----------------------------
 
 L'assemblée générale extraordinaire a compétence exclusive pour
 procéder aux modifications statutaires à la majorité des deux tiers.
 
-ARTICLE 19 - REPRÉSENTATION
+ARTICLE 18 - REPRÉSENTATION
 ===========================
 
 Tous actes ou prestations réalisés au profit de tiers au nom de
 l'association par l'un de ses membres devront être autorisés par le
 Bureau.
 
-ARTICLE 20 - DISSOLUTION
+ARTICLE 19 - DISSOLUTION
 ========================
 
 En cas de dissolution prononcée selon les modalités prévues par les
