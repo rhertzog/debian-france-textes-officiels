@@ -199,35 +199,29 @@ Une Assemblée Générale électronique se déroule en deux phases :
 La phase de discussion doit être d'au moins une semaine (7 jours) en
 période normale, et de deux semaines (14 jours) en période de vacances
 scolaires (toutes zones confondues). La phase de vote doit être d'au
-moins 24 heures.
+moins 72 heures.
+
+Les modalités précises des deux phases sont définies dans le Règlement
+Intérieur.
 
 9-2 LES CONVOCATIONS
 --------------------
 
-Quinze jours avant la date fixée, les membres de l'Association sont
-convoqués par courrier électronique adressé à la liste de diffusion de
-l'Association par le Secrétaire.
+Au plus tard quinze jours avant la date fixée, le secrétaire convoque
+les membres de l'Association par courrier électronique. Une copie
+de cette convocation est adressée à la liste de diffusion de
+l'Association.
 
-Les courriers électroniques signés sont certifiés par une clé
-cryptographique PGP/GPG personnelle propre à l'auteur du courrier
-électronique. Les modalités techniques de mise en œuvre des convocations
-seront précisées par le Règlement Intérieur.
-
-L'ordre du jour de l'Assemblée Générale est indiqué sur les
-convocations.
+L'ordre du jour de l'Assemblée Générale est indiqué sur les convocations.
 
 Lorsque l'Assemblée Générale réunie est physique, un formulaire de
 pouvoir permettant de donner mandat à un autre membre présent lors de
 l'Assemblée Générale doit être prévu en accompagnement de la convocation
 à l'Assemblée Générale.
 
-Seuls les mandats dûment remplis et signés, et précisant le nom et
-l'adresse du membre remplacé lors de l'Assemblée Générale seront pris en
-compte.
-
-Les mandats arrivés en blanc (non remplis) ou adressés au nom d'un
-membre non présent ne peuvent être pris en compte lors du vote et sont
-considérés comme nuls.
+Seuls les mandats dûment remplis et signés sont acceptés. Les mandats en
+blancs (ne précisant pas le mandataire) pourront être envoyés au président
+qui les attribuera aux membres présents de son choix.
 
 Les assemblées électroniques ne donnent pas lieu à des mandats.
 
@@ -260,78 +254,74 @@ conditions suivantes:
 
 * Être à jour de cotisation à la date de l'Assemblée Générale ;
 
-* Tous les membres de l'Association peuvent se faire représenter par
-  un autre membre ;
+* Pour les assemblées dites physiques, tous les membres de
+  l'Association peuvent se faire représenter par un autre membre ;
 
 * Pour les assemblées dites physiques, un membre présent ayant le
-  droit de vote ne peut avoir qu'au maximum deux mandats de
-  représentation ;
-
-* Pour les assemblées dites électroniques, la représentation par
-  mandat n'est pas possible.
+  droit de vote ne peut avoir qu'au maximum trois mandats de
+  représentation.
 
 Le vote électronique est effectué en ligne grâce à un logiciel
 adéquat qui permette de s'assurer l'identité du votant.
 
 Le logiciel de vote n'autorise le vote que pendant les créneaux
 précis, communiqués dans la convocation, sous responsabilité d'un
-membre du bureau, ou de deux membres du Conseil d'Administration.
+membre du Bureau, ou de deux membres du Conseil d'Administration.
 Les procédés de certification et de sécurisation des votes sont
 précisés dans le Règlement Intérieur.
 
-Les décisions sont prises à la majorité simple des suffrages exprimés,
-le quorum ne pouvant être inférieur à un tiers (les règles de quorum
-pour le vote électronique sont précisées dans le Règlement Intérieur).
+Les décisions sont prises à la majorité simple des suffrages exprimés
+selon les modalités suivantes:
 
-* les décisions sont prises à bulletins ouverts ;
+* Pour les assemblées électroniques, les votes sont enregistrés de manière
+  nominative mais ne seront publiés que sur demande explicite d'un membre
+  ayant le droit de vote.
 
-* en cas de partage, lors des votes, la voix du Président est
+* Pour les assemblées dites physiques, les décisions sont prises à bulletins
+  ouverts.
+
+* Dans les deux cas, en cas de partage, la voix du Président est
   prépondérante.
 
 ARTICLE 10 - ASSEMBLÉE GÉNÉRALE ORDINAIRE
 =========================================
 
-L'assemblée générale ordinaire comprend tous les membres de
-l'association à quelque titre qu'ils soient. Elle se réunit chaque
-année.
+L'Assemblée Générale Ordinaire comprend tous les membres de l'association
+à quelque titre qu'ils soient. Elle se réunit chaque année et statue
+sans condition de quorum.
 
-Le président, assisté des membres du Conseil d'Administration, préside
-l'assemblée et expose la situation morale ou l'activité de
-l'association.
+Le Président, assisté des membres du Conseil d'Administration, préside
+l'assemblée et expose la situation morale ou l'activité de l'association.
 
-Le trésorier rend compte de sa gestion et soumet les comptes annuels
+Le Trésorier rend compte de sa gestion et soumet les comptes annuels
 (bilan, compte de résultat et annexe) à l'approbation de l'assemblée.
 
 Ne peuvent être abordés que les points inscrits à l'ordre du jour.
 
-Les décisions sont prises à la majorité des voix des suffrages exprimés,
-suivant le vote électronique dont les modalités sont fixées par le
-Règlement Intérieur.
-
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement
 des membres sortants du Conseil d'Administration.
 
-Les décisions des assemblées générales s'imposent à tous les membres,
+Les décisions des Assemblées Générales s'imposent à tous les membres,
 y compris absents ou représentés.
 
 ARTICLE 11 - ASSEMBLÉE GÉNÉRALE EXTRAORDINAIRE
 ==============================================
 
 Si besoin est, ou sur la demande de la moitié plus un des membres
-inscrits, le président peut convoquer une assemblée générale
-extraordinaire, suivant les modalités prévues aux présents statuts et
-uniquement pour modification des statuts ou la dissolution ou pour des
+inscrits, le Président peut convoquer une Assemblée Générale
+Extraordinaire, suivant les modalités prévues aux présents statuts et
+uniquement pour modification des statuts, pour la dissolution ou pour des
 actes portant sur des immeubles.
 
-Les modalités de convocation sont les mêmes que pour l'assemblée
-générale ordinaire.
+Les modalités de convocation sont les mêmes que pour l'Assemblée
+Générale Ordinaire.
 
 Les délibérations sont prises à la majorité des suffrages exprimés,
 le quorum étant d'un tiers.
 
 Si le quorum n'est pas atteint, le président peut convoquer une
 nouvelle assemblée dans un délai d'un mois minimum et de deux mois au
-maximum. Le quorum est d'un tiers.
+maximum : celle-ci siègera sans condition de quorum.
 
 ARTICLE 12 - CONSEIL D'ADMINISTRATION
 =====================================
