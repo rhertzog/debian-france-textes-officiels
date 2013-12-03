@@ -460,8 +460,8 @@ l'Association,
 17-2 MODIFICATION STATUTAIRES
 -----------------------------
 
-L'assemblée générale extraordinaire a compétence exclusive pour
-procéder aux modifications statutaires à la majorité des deux tiers.
+L'Assemblée Générale Extraordinaire a compétence exclusive pour
+procéder aux modifications statutaires.
 
 ARTICLE 18 - REPRÉSENTATION
 ===========================
