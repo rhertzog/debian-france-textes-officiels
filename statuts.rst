@@ -299,7 +299,8 @@ Le Trésorier rend compte de sa gestion et soumet les comptes annuels
 Ne peuvent être abordés que les points inscrits à l'ordre du jour.
 
 Il est procédé, après épuisement de l'ordre du jour, au renouvellement
-des membres sortants du Conseil d'Administration.
+des membres sortants du Conseil d'Administration. Les modalités de cette
+élection sont précisées dans le Règlement Intérieur.
 
 Les décisions des Assemblées Générales s'imposent à tous les membres,
 y compris absents ou représentés.
@@ -330,38 +331,35 @@ ARTICLE 12 - CONSEIL D'ADMINISTRATION
 -----------------------------------------------
 
 L'association est dirigée par un Conseil d'Administration de neuf (9)
-membres, élus pour une année par l'assemblée générale. Les membres
+membres, élus pour trois ans par l'Assemblée Générale. Les membres
 sont rééligibles. Ne sont éligibles au Conseil d'Administration que
-les membres (depuis six mois au sein de l'association) majeurs, dotés
-de la capacité juridique et à jour de leurs cotisations.
+les membres majeurs dotés de la capacité juridique, à jour de leurs
+cotisations, et ayant au moins six mois d'ancienneté au sein de
+l'association.
 
-Le Conseil d'Administration étant renouvelé chaque année par tiers, la
-première année. TODO: manque la fin de phrase
-
-Les modalités de renouvellement sont précisées par le Règlement
-Intérieur.
+Le Conseil d'Administration est renouvelé chaque année par tiers. Les
+modalités de renouvellement sont précisées par le Règlement Intérieur.
 
 En cas de vacances, le Conseil d'Administration pourvoit provisoirement
 au remplacement de ses membres. Il est procédé à leur remplacement
-définitif par la plus prochaine assemblée générale. Les pouvoirs des
+définitif par la plus prochaine Assemblée Générale. Les pouvoirs des
 membres ainsi élus prennent fin à l'expiration du mandat des membres
 remplacés.
 
-Le Conseil d'Administration se réunit au moins une fois tous les six
-mois, sur convocation du président, ou à la demande du quart de ses
-membres.
+Le Conseil d'Administration siège de manière permanente par
+l'intermédiaire d'une liste de diffusion. Il peut également
+se réunir sur convocation du Président, ou sur demande du tiers
+de ses membres.
 
-Les décisions sont prises à la majorité des voix ; en cas de partage,
-la voix du président est prépondérante.
+Les décisions sont prises à la majorité simple des voix ; en cas de
+partage, la voix du président est prépondérante. Les modalités pratique
+des votes du Conseil d'Administration sont précisées dans le Règlement
+Intérieur.
 
 Tout membre du Conseil d'Administration qui, sans excuse, n'aura pas
-pris part à des délibérations électroniques pendant trois mois
+pris part aux délibérations électroniques pendant trois mois
 consécutifs ou qui n'aura pas assisté à deux réunions consécutives
 sera considéré comme démissionnaire.
-
-Les élections, désignations des membres du Conseil d'Administration sont
-réalisées par voie électronique. Les modalités de mise en œuvre des
-votes électroniques sont précisées par le Règlement Intérieur.
 
 12-2 POUVOIRS
 -------------
@@ -390,23 +388,23 @@ ARTICLE 13 - LE BUREAU
 ======================
 
 Le Conseil d'Administration élit parmi ses membres, à bulletin
-secret, un bureau composé de :
+secret, un Bureau composé de :
 
-* Un président ;
+* Un Président ;
 
-* Un secrétaire ;
+* Un Secrétaire ;
 
-* Un trésorier.
+* Un Trésorier.
 
-Les fonctions de président et de trésorier ne sont pas cumulables.
+Les fonctions de Président et de Trésorier ne sont pas cumulables.
 Les fonctions, attributions et pouvoirs respectifs des membres du
-bureau sont prévus par le Règlement Intérieur.
+Bureau sont prévus par le Règlement Intérieur.
 
 ARTICLE 14 - INDEMNITÉS
 =======================
 
 Toutes les fonctions, y compris celles des membres du Conseil
-d'Administration et du bureau, sont gratuites et bénévoles. Seuls
+d'Administration et du Bureau, sont gratuites et bénévoles. Seuls
 les frais occasionnés par l'accomplissement de leur mandat sont
 remboursés sur justificatifs. Le rapport financier présenté à
 l'assemblée générale ordinaire présente, par bénéficiaire,
@@ -424,12 +422,9 @@ interne de l'association.
 ARTICLE 16 - COMMUNICATION INTERNE
 ==================================
 
-Les outils de communication tels le téléphone, le courrier électronique
-ou les logiciels de travail en groupe, pourront être utilisés en lieu et
-place du courrier traditionnel ou des rencontres physiques directes pour
-simplifier le travail du Bureau et du Conseil d'Administration, ainsi
-que pour la communication entre ces derniers et les membres de
-l'Association.
+Les outils de communication issus des technologies de l'information
+seront privilégiés afin que tout le monde, quel que soit sa localisation
+géographique, puisse prendre part à la vie de l'Association.
 
 Ces moyens pourront en particulier être utilisés pour les réunions du
 Conseil d'Administration et du Bureau, dans les conditions précisées par
@@ -447,7 +442,7 @@ ARTICLE 17 - MODIFICATIONS
 
 Toute proposition de modifications du Règlement Intérieur sera diffusée
 par le Conseil d'Administration auprès des membres de l'Association au
-moins 2 (deux) semaines avant la date prévue de mise en application.
+moins deux semaines avant la date prévue de mise en application.
 
 Les membres seront invités à s'exprimer sur les modifications proposées,
 afin de permettre au Conseil d'Administration de prendre une décision en
@@ -455,7 +450,7 @@ conscience.
 
 Toute modification du Règlement Intérieur validée par le Conseil
 d'Administration fera l'objet de publicité auprès des membres de
-l'Association,
+l'Association, pour application immédiate.
 
 17-2 MODIFICATION STATUTAIRES
 -----------------------------
@@ -467,7 +462,7 @@ ARTICLE 18 - REPRÉSENTATION
 ===========================
 
 Tous actes ou prestations réalisés au profit de tiers au nom de
-l'association par l'un de ses membres devront être autorisés par le
+l'Association par l'un de ses membres devront être autorisés par le
 Bureau.
 
 ARTICLE 19 - DISSOLUTION
