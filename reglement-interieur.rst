@@ -35,29 +35,44 @@ d'une signature électronique réalisée à l'aide d'une clé cryptographique
 PGP/GPG personnelle propre à l'auteur dudit courrier et qui permet de
 l'authentifier de façon fiable.
 
-ARTICLE 1 - Adhésion, Cotisations
+ARTICLE 1 - ADHÉSION, COTISATIONS
 =================================
+
+1.1 Montant des cotisations
+---------------------------
 
 Les montants des cotisations sont ﬁxés comme suit :
 
 * la cotisation annuelle des membres bienfaiteurs est ﬁxée à 250 (deux cent
-  cinquante) euros minimum, sans limite, au choix de l’adhérent ;
+  cinquante) euros minimum, sans limite, au choix de l'adhérent ;
 
 * la cotisation annuelle des membres actifs est ﬁxée à 10 (dix) euros minimum,
-  sans limite, au choix de l’adhérent ;
+  sans limite, au choix de l'adhérent ;
 
 Le montant choisi par les membres actifs personnes physiques et les membres
 bienfaiteurs est confidentiel.
 
-La liste des membres est publique pour l'ensemble des membres de l'Association
-sans distinction de la qualité de membre, à l'exception des membres d'honneurs.
+1.2 Modalités d'adhésion
+------------------------
 
 Pour obtenir le statut d'adhérent, la personne devra prendre connaissance des
-Statuts et du Règlement Intérieur de l'Association, et remplir le formulaire
-d'adhésion. Ce formulaire peut-être rempli en ligne sur le site de l'association
-ou alors il peut être téléchargé, imprimé, rempli, puis renvoyé au siège social
-de l'Association. Dans tous les cas, la demande d'adhésion doit inclure
-les informations suivantes :
+Statuts et du Règlement Intérieur de l'Association, remplir le formulaire
+d'adhésion, et s'acquitter de sa cotisation.
+
+Pour une inscription en ligne, il faut se créer un compte sur le logiciel
+de gestion de membres Galette en remplissant le `formulaire dédié
+<https://france.debian.net/galette/self_adherent.php>` puis en réglant
+sa cotisation soit par PayPal via l'onglet PayPal accessible
+depuis son espace membre, soit par virement bancaire.
+
+Pour une inscription hors-ligne (notamment celles collectées lors
+d'événements), il convient de remplir une copie papier du
+`formulaire d'adhésion <http://france.debian.net/documents/adhesion.pdf>`,
+d'y joindre le montant de la cotisation en chèque ou en espèces,
+et d'envoyer le tout à l'adresse indiquée sur le formulaire.
+
+Dans tous les cas, la demande d'adhésion doit inclure les informations
+suivantes :
 
 * montant de la cotisation ;
 
@@ -80,13 +95,16 @@ rectification des données le concernant auprès du Secrétaire de l'Association
 L'adhérent s'engage à porter à la connaissance de l'Association toutes
 modifications portant sur son adresse postale, adresse électronique, téléphone.
 
-ARTICLE 2 - Assemblée Générale
+La liste des membres est publique pour l'ensemble des membres de l'Association
+sans distinction de la qualité de membre.
+
+ARTICLE 2 - ASSEMBLÉE GÉNÉRALE
 ==============================
 
 L'Assemblée Générale ordinaire se réunit chaque année dans le premier trimestre
 de l'année civile.
 
-ARTICLE 3 - Élections
+ARTICLE 3 - ÉLECTIONS
 =====================
 
 3.1 Conditions
@@ -146,7 +164,7 @@ Président sortant n'est plus administrateur, la voix prépondérante est celle 
 l'administrateur le plus âgé. Pour les autres élections, il s'agit du Président
 nouvellement élu.
 
-ARTICLE 4 - Communication officielle interne
+ARTICLE 4 - COMMUNICATION OFFICIELLE INTERNE
 ============================================
 
 Toute communication officielle d'un membre du Conseil d'Administration devrait être
@@ -156,7 +174,7 @@ les autres adhérents. En effet, une telle clé est nécessaire pour
 candidater au Conseil d'Administration et pourrait être requise pour
 authentifier certaines demandes soumises par courrier électronique.
 
-La communication des membres au secrétariat n’est soumise à aucune obligation de
+La communication des membres au secrétariat n'est soumise à aucune obligation de
 signature cryptographique, sauf exception clairement précisée.
 
 Sauf mention contraire dans les Statuts ou le Règlement Intérieur (en
@@ -167,26 +185,33 @@ l'adhérent concernant la communication lui étant destinée.
 Les adhérents choisissent librement d'utiliser la voie numérique ou la voie
 postale pour leur communication avec le Bureau ou le Secrétariat.
 
-ARTICLE 5 - Adresse électronique des listes de diffusion
-========================================================
+ARTICLE 5 - ADRESSES ÉLECTRONIQUES
+==================================
 
-* liste de diffusion du Bureau : bureau@france.debian.net ;
+Toutes les adresses électroniques doivent être complétées par « @france.debian.net ».
 
-* liste de diffusion du Conseil d'Administration : ca@france.debian.net ;
+* liste de diffusion du Bureau : bureau ;
 
-* liste de diffusion de l'Association : asso@france.debian.net ;
+* liste de diffusion du Conseil d'Administration : ca ;
 
-* liste de diffusion des Assemblées Générales Ordinaires électroniques :
-  ag@france.debian.net.
+* liste de diffusion de l'Association : asso ;
 
-ARTICLE 6 - Prise de position
+* liste de diffusion des Assemblées Générales électroniques : ag ;
+
+* président de l'association : president ;
+
+* trésorier de l'association : tresorier ;
+
+* secrétaire de l'association : secretaire.
+
+ARTICLE 6 - PRISE DE POSITION
 =============================
 
-L’Association pourra prendre position au sujet d'évènements ayant trait à ses
+L'Association pourra prendre position au sujet d'évènements ayant trait à ses
 buts tels que définis dans les Statuts. La décision se prend à l'unanimité du
 Conseil d'Administration.
 
-ARTICLE 7 - Définition de l'année de référence
+ARTICLE 7 - DÉFINITION DE L'ANNÉE DE RÉFÉRENCE
 ==============================================
 
 L'année de référence de l'Association est fixée à l'année civile, c'est-à-dire
@@ -194,7 +219,7 @@ du 1er janvier au 31 décembre.
 
 L'année de référence correspond à l'exercice comptable.
 
-ARTICLE 8 - Finances
+ARTICLE 8 - FINANCES
 ====================
 
 8.1 Dépenses de l'Association
@@ -236,7 +261,7 @@ Aucune facture de carburant ne sera remboursée. Les frais annexes à
 l'utilisation du véhicule personnel pourront être remboursés (stationnement,
 péages).
 
-ARTICLE 9 - Utilisation du nom et du ou des logos de l'Association
+ARTICLE 9 - UTILISATION DU NOM ET DU OU DES LOGOS DE L'ASSOCIATION
 ==================================================================
 
 Les membres actifs peuvent faire référence à leur affiliation à l'Association, à
@@ -248,7 +273,7 @@ respecte l'esprit et la lettre des statuts de l'association, elle est
 subordonnée à l'existence d'un lien hypertexte du logo vers le site officiel de
 l'Association, ou vers un miroir de ce site agréé par l'Association.
 
-ARTICLE 10 - Délégation de pouvoir du Conseil d'Administration
+ARTICLE 10 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
 ==============================================================
 
 * administration du serveur france.debian.net : Julien CRISTAU et Raphaël
