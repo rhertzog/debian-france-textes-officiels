@@ -22,7 +22,7 @@ d'exploitation libres. Les MEMBRES DU PROJET DEBIAN sont des personnes
 physiques disposant du droit de vote selon la constitution Debian
 (http://www.debian.org/devel/constitution) et d'une clé cryptographique
 PGP/GPG personnelle qui figure dans la liste officielle des clés
-cryptographiques du Projet Debian, telle que publiée sur
+cryptographiques du projet DEBIAN, telle que publiée sur
 http://keyring.debian.org.
 
 Tous les ans, les MEMBRES DU PROJET DEBIAN désignent le DEBIAN PROJECT
@@ -101,11 +101,65 @@ sans distinction de la qualité de membre.
 ARTICLE 2 - ASSEMBLÉE GÉNÉRALE
 ==============================
 
+2.1 Calendrier
+--------------
+
 L'Assemblée Générale ordinaire se réunit chaque année dans le premier trimestre
 de l'année civile.
 
-ARTICLE 3 - ÉLECTIONS
-=====================
+2.2 Phase de discussion d'une AG électronique
+---------------------------------------------
+
+Au début de la phase de discussion, le Secrétaire abonne tous les membres
+à jour de leur cotisation à la liste de diffusion dédiée aux assemblées
+générales. Immédiatement après il poste l'ordre du jour, invitant par la
+même les différents intervenants à faire leur compte-rendu et à débattre
+sur les points prévus. L'ordre du jour doit également préciser le
+calendrier précis de la phase de discussion ainsi que celui prévu pour la
+phase de vote.
+
+2.3 Phase de vote d'une AG électronique
+---------------------------------------
+
+Au début de la phase de vote, le Secrétaire envoie un message à la liste
+de diffusion dédiée aux assemblées générales, ainsi qu'une copie
+individuelle par le biais de la fonctionnalité de mailing de Galette,
+invitant tous les membres à voter. Le message doit contenir:
+
+* des instructions claires pour voter ;
+
+* les date et heure limite pour voter ;
+
+* des instructions pour récupérer son identifiant/mot de passe Galette au
+  cas où l'adhérent les auraient perdu.
+
+En effet, les votes électroniques sont réalisées par une application web
+accessible à l'URL https://france.debian.net/votes/ et cette application
+authentifie les membres à l'aide de leurs identifiant et mot de passe
+Galette (l'application web de gestion des membres).
+
+2.4 Mandat
+----------
+
+Les modalités d'utilisation des mandats pour les Assemblées Générales
+dites « physiques » sont précisées somme suit :
+
+* le mandat doit indiquer :
+
+  * le nom du membre qui souhaite se faire représenter ;
+
+  * la date de l'assemblée générale pour laquelle le mandat est valable ;
+
+  * soit le nom du membre choisi pour le représenter, soit la formule
+    « mandat attribuable à tout membre présent (au choix du Président) ».
+    
+* il peut être manuscrit et signé de la main de son auteur, ou rédigé sous la
+  forme d'un COURRIER ÉLECTRONIQUE SIGNÉ. La clé cryptographique PGP/GPG utilisée
+  devra avoir été signée au préalable par au moins un membre du Conseil
+  d'Administration.
+
+ARTICLE 3 - ÉLECTIONS DU CONSEIL D'ADMINISTRATION ET DU BUREAU
+==============================================================
 
 3.1 Conditions
 --------------
@@ -121,26 +175,31 @@ COURRIER ÉLECTRONIQUE SIGNÉ au Bureau au moins sept jours avant la
 date de l'Assemblée Générale. Celles-ci devront être accompagnées d'une
 présentation du candidat et de sa profession de foi.
 
-3.3 Mandat
-----------
+3.3 Modalités d'élection du Conseil d'Administration
+----------------------------------------------------
 
-Les modalités d'utilisation des mandats pour les Assemblées Générales sont
-précisées somme suit :
+Le Conseil d'Administration est composé pour au moins deux tiers de
+MEMBRES DU PROJET DEBIAN. Tant que ce critère n'est pas satisfait, sont
+élus en priorité les MEMBRES DU PROJET DEBIAN (en commençant par celui
+ou celle qui a le plus de voix).
 
-* le mandat doit indiquer au minimum le nom du membre qui souhaite se faire
-  représenter ainsi que celui du membre choisi pour le représenter. Il doit
-  stipuler la date de l'Assemblée Générale pour laquelle il a été établi ;
+Lors du renouvellement du Conseil d'Administration, il peut y avoir des
+sièges correspondant à un mandat de 3 ans (cas des mandats arrivés à
+terme) ou des mandats plus courts (en cas de démission ou de CA non
+complet). L'attribution de ces sièges s'effectue selon ces règles :
 
-* il peut être manuscrit et signé de la main de son auteur, ou rédigé sous la
-  forme d'un COURRIER ÉLECTRONIQUE SIGNÉ. La clé cryptographique PGP/GPG utilisée
-  devra avoir été signée au préalable par au moins un membre du Conseil
-  d'Administration.
+* les membres qui sont réélus après un mandat arrivé à terme le sont pour
+  une durée de 3 ans ;
 
-3.4 Modalités d'élection
-------------------------
+* les membres qui sont réélus après une co-optation pour remplacer un
+  membre démissionnaire le sont pour la durée restante du mandat de la
+  personne démissionnaire ;
 
-Le Conseil d'Administration est composé pour au moins deux tiers de Développeurs
-Debian.
+* les autres membres élus sont répartis dans les sièges restant par tirage
+  au sort (réalisé par le Secrétaire).
+
+3.4 Modalités d'élection du Bureau
+----------------------------------
 
 Chaque poste du Bureau doit faire l'objet d'un vote individuel au sein du
 Conseil d'Administration.
@@ -164,39 +223,110 @@ Président sortant n'est plus administrateur, la voix prépondérante est celle 
 l'administrateur le plus âgé. Pour les autres élections, il s'agit du Président
 nouvellement élu.
 
-ARTICLE 4 - COMMUNICATION OFFICIELLE INTERNE
+ARTICLE 4 - FONCTIONS, ATTRIBUTIONS ET POUVOIRS DU BUREAU
+=========================================================
+
+Tous les membres du Bureau :
+
+* ont les droits administrateurs sur Galette et peuvent intervenir sur la base
+  de données des membres ;
+
+* ont les droits administrateurs sur les listes de diffusion de l'Association ;
+
+* ont les droits administrateurs sur le « Gitolite » de l'association afin
+  de pouvoir gérer les droits d'accès sur les différents dépôts Git
+  (cela se gère via le dépôt accessible par « git clone
+  git@france.debian.net:gitolite-admin »).
+
+Le Président :
+
+* dispose du pouvoir bancaire ;
+
+* est habilité à effectuer des opérations de gestion pour le compte du
+  projet Debian dans le cadre fixé à l'article 9.4 du présent règlement ;
+
+* représente l'association vis à vis des tiers et en est donc
+  l'interlocuteur privilégié.
+
+Le Secrétaire :
+
+* gère la base de données des membres, notamment en radiant les membres
+  qui ne sont pas à jour de leur cotisation ;
+
+* gère la modération des listes de diffusion de l'Association ;
+
+* rédige les procès verbaux des votes du Conseil d'Administration dans
+  le dépôt Git accessible au CA par « git clone
+  git@france.debian.net:proces-verbaux/ca »).
+
+* rédige les procès verbaux des Assemblées Générales dans le dépôt Git
+  accessible à tous par « git clone
+  git@france.debian.net:proces-verbaux/ag ».
+
+Le Trésorier :
+
+* dispose du pouvoir bancaire ;
+
+* est habilité à effectuer des opérations de gestion pour le compte du
+  projet Debian dans le cadre fixé à l'article 9.4 du présent règlement ;
+ 
+* tient la comptabilité de l'Association dans le dépôt Git accessible
+  au CA par « git clone git@france.debian.net:compta ».
+
+ARTICLE 5 - COMMUNICATION OFFICIELLE INTERNE
 ============================================
 
-Toute communication officielle d'un membre du Conseil d'Administration devrait être
-signée avec sa clé cryptographique personnelle. Les adhérents sont fortement
-invités à se munir d'une clé cryptographique personnelle et à la faire signer par
-les autres adhérents. En effet, une telle clé est nécessaire pour
-candidater au Conseil d'Administration et pourrait être requise pour
-authentifier certaines demandes soumises par courrier électronique.
+5.1 Signature électronique
+--------------------------
 
-La communication des membres au secrétariat n'est soumise à aucune obligation de
-signature cryptographique, sauf exception clairement précisée.
+Toute communication officielle d'un membre du Conseil d'Administration
+devrait être signée avec sa clé cryptographique personnelle. Les adhérents
+sont fortement invités à se munir d'une clé cryptographique personnelle et
+à la faire signer par les autres adhérents. En effet, une telle clé est
+nécessaire pour candidater au Conseil d'Administration et pourrait être
+requise pour authentifier certaines demandes soumises par courrier
+électronique.
 
-Sauf mention contraire dans les Statuts ou le Règlement Intérieur (en
-particulier dans le cas de l'adhésion et de la démission), les communications se
-font par voie numérique dès que possible, sauf demande contraire et motivée de
-l'adhérent concernant la communication lui étant destinée.
+La communication des membres au secrétariat n'est soumise à aucune
+obligation de signature cryptographique, sauf exception clairement
+précisée.
 
-Les adhérents choisissent librement d'utiliser la voie numérique ou la voie
-postale pour leur communication avec le Bureau ou le Secrétariat.
+5.2 Prédilection aux communications numériques
+----------------------------------------------
 
-ARTICLE 5 - ADRESSES ÉLECTRONIQUES
+Sauf mention contraire dans les Statuts ou le Règlement Intérieur, les
+communications se font par voie numérique dès que possible, sauf demande
+contraire et motivée de l'adhérent concernant la communication lui étant
+destinée.
+
+Les adhérents choisissent librement d'utiliser la voie numérique ou la
+voie postale pour leur communication avec le Bureau ou le Secrétariat.
+
+5.3 Communications aux membres
+------------------------------
+
+Lorsque le Bureau souhaite communiquer une information à tous les membres, il
+utilise la fonctionnalité « E-Mailings » de Galette. Chaque membre reçoit
+alors un courrier individuel à l'adresse email enregistrée dans Galette.
+
+Lorsque le Bureau souhaite communiquer des informations aux bénévoles
+qui veulent s'impliquer dans la vie associative, il utilise la liste de
+diffusion de l'Association (cf Article 6) à laquelle tout un chacun peut
+s'abonner.
+
+ARTICLE 6 - ADRESSES ÉLECTRONIQUES
 ==================================
 
-Toutes les adresses électroniques doivent être complétées par « @france.debian.net ».
+Toutes les adresses électroniques doivent être complétées par
+« @france.debian.net » :
 
 * liste de diffusion du Bureau : bureau ;
 
 * liste de diffusion du Conseil d'Administration : ca ;
 
-* liste de diffusion de l'Association : asso ;
+* liste de diffusion de l'Association : `asso <https://france.debian.net/mailman/listinfo/asso>`_ ;
 
-* liste de diffusion des Assemblées Générales électroniques : ag ;
+* liste de diffusion des Assemblées Générales électroniques : ag ;
 
 * président de l'association : president ;
 
@@ -204,14 +334,14 @@ Toutes les adresses électroniques doivent être complétées par « @france.de
 
 * secrétaire de l'association : secretaire.
 
-ARTICLE 6 - PRISE DE POSITION
+ARTICLE 7 - PRISE DE POSITION
 =============================
 
 L'Association pourra prendre position au sujet d'évènements ayant trait à ses
 buts tels que définis dans les Statuts. La décision se prend à l'unanimité du
 Conseil d'Administration.
 
-ARTICLE 7 - DÉFINITION DE L'ANNÉE DE RÉFÉRENCE
+ARTICLE 8 - DÉFINITION DE L'ANNÉE DE RÉFÉRENCE
 ==============================================
 
 L'année de référence de l'Association est fixée à l'année civile, c'est-à-dire
@@ -219,10 +349,10 @@ du 1er janvier au 31 décembre.
 
 L'année de référence correspond à l'exercice comptable.
 
-ARTICLE 8 - FINANCES
+ARTICLE 9 - FINANCES
 ====================
 
-8.1 Dépenses de l'Association
+9.1 Dépenses de l'Association
 -----------------------------
 
 Les dépenses engagées par l'Association doivent être validées préalablement par
@@ -243,14 +373,14 @@ mesure disciplinaire qu'il estime nécessaire en cas de dépense n'ayant pas pou
 but la réalisation d'un des objectifs de l'Association ou qu'il jugera abusive
 ou non nécessaire.
 
-8.2 Remboursement des dépenses générales
+9.2 Remboursement des dépenses générales
 ----------------------------------------
 
 Les dépenses réellement engagées par les membres au titre de l'Association
 pourront être remboursées, avec accord préalable du Conseil d'Administration,
 sur présentation de justificatifs.
 
-8.3 Remboursement des frais de déplacement
+9.3 Remboursement des frais de déplacement
 ------------------------------------------
 
 Dans le cas de l'utilisation d'un véhicule personnel, une indemnisation sera
@@ -261,8 +391,35 @@ Aucune facture de carburant ne sera remboursée. Les frais annexes à
 l'utilisation du véhicule personnel pourront être remboursés (stationnement,
 péages).
 
-ARTICLE 9 - UTILISATION DU NOM ET DU OU DES LOGOS DE L'ASSOCIATION
-==================================================================
+9.4 Gestion des ressources du projet Debian
+-------------------------------------------
+
+Debian France assume le rôle de « Trusted organisation » pour le compte
+du projet DEBIAN (tel que décrit à la `section 9.3 de la constitution
+Debian <http://www.debian.org/devel/constitution#item-9>`_). 
+
+En conséquence, l'Association peut gérer des actifs monétaires du
+projet Debian (fonds « Organisation Debian »). Seul le DEBIAN PROJECT
+LEADER a l'autorité pour décider de l'usage de ces actifs dans le cadre
+fixé par le projet Debian.
+
+Ces actifs apparaissent dans la comptabilité standard de l'Association
+mais également dans une comptabilité analytique séparée tenue à
+disposition des auditeurs du projet Debian.
+
+Les fonds propres de l'Association ne seront donc pas sous le contrôle du
+DEBIAN PROJECT LEADER. Le Conseil d'Administration peut cependant
+décider d'effectuer des donations au projet Debian et de transférer ainsi
+une partie de ses fonds propres dans les fonds « Organisation Debian ».
+
+Le Président et le Trésorier sont les interlocuteurs du DEBIAN PROJECT
+LEADER pour effectuer les opérations financières demandées par ce dernier.
+Ces derniers peuvent refuser d'effectuer les opérations demandées si
+les justificatifs requis pour la tenue d'une comptabilité correcte
+et sincère ne sont pas fournis.
+
+ARTICLE 10 - UTILISATION DU NOM ET DU OU DES LOGOS DE L'ASSOCIATION
+===================================================================
 
 Les membres actifs peuvent faire référence à leur affiliation à l'Association, à
 condition d'en respecter les buts et la déontologie.
@@ -271,9 +428,9 @@ L'utilisation du ou des logos de l'Association sur un document papier est
 soumise expressément à l'accord du Président. Sur un document hypermédia qui
 respecte l'esprit et la lettre des statuts de l'association, elle est
 subordonnée à l'existence d'un lien hypertexte du logo vers le site officiel de
-l'Association, ou vers un miroir de ce site agréé par l'Association.
+l'Association.
 
-ARTICLE 10 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
+ARTICLE 11 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
 ==============================================================
 
 * administration du serveur france.debian.net : Julien CRISTAU et Raphaël
@@ -282,5 +439,5 @@ ARTICLE 10 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
 * administration des listes de diffusion : Julien CRISTAU et le Bureau ;
 
 * administration du site web : le Bureau et toutes les personnes
-  habilitées à mettre à jour le dépôt Git
-  ssh://git@france.debian.net/website.
+  habilitées à mettre à jour le dépôt Git accessible par « git clone
+  git@france.debian.net:website ».
