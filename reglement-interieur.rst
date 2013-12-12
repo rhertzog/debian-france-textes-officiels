@@ -243,7 +243,7 @@ Le Président :
 * dispose du pouvoir bancaire ;
 
 * est habilité à effectuer des opérations de gestion pour le compte du
-  projet Debian dans le cadre fixé à l'article 9.4 du présent règlement ;
+  projet Debian dans le cadre fixé à l'Article 10.4 du présent règlement ;
 
 * représente l'association vis à vis des tiers et en est donc
   l'interlocuteur privilégié.
@@ -268,15 +268,54 @@ Le Trésorier :
 * dispose du pouvoir bancaire ;
 
 * est habilité à effectuer des opérations de gestion pour le compte du
-  projet Debian dans le cadre fixé à l'article 9.4 du présent règlement ;
+  projet Debian dans le cadre fixé à l'Article 10.4 du présent règlement ;
  
 * tient la comptabilité de l'Association dans le dépôt Git accessible
   au CA par « git clone git@france.debian.net:compta ».
 
-ARTICLE 5 - COMMUNICATION OFFICIELLE INTERNE
+ARTICLE 5 - CONSEIL D'ADMINISTRATION
+====================================
+
+5.1 Soumettre une proposition
+-----------------------------
+
+Tout membre de l'association (et à fortiori du CA) peut, à n'importe quel
+moment, soumettre une proposition au CA en écrivant à la liste de
+diffusion du CA.
+
+5.2 Votes électroniques
+-----------------------
+
+Lorsqu'un vote s'avère nécessaire, notamment lorsqu'il s'agit d'engager
+une dépense, n'importe quel membre du CA peut envoyer un appel à vote en
+préfixant le sujet de son message par « [VOTE] » et en y intégrant un
+bulletin de vote incluant les différents choix proposés (souvent
+Pour/Contre/Abstention) par exemple comme ceci::
+
+  [ ] Pour l'achat de X
+  [ ] Contre l'achat de X
+  [ ] Abstention
+
+Le vote est alors ouvert pour une période d'une semaine. L'émetteur
+de l'appel peut choisir de réduire la période de vote en précisant de
+manière explicite les date et heure limite de vote, sans pouvoir
+descendre en dessous de 3 jours minimum.
+
+Les membres du CA votent en répondant au message et en plaçant un « X »
+dans la case de leur choix. La réponse devrait, dans la mesure du
+possible, être signée.
+
+Pour que la décision soit valable, un quorum d'un tiers est nécessaire.
+Dès que l'issue du vote est connue, avant même la fin de la période de
+vote, le porteur du projet peut se prévaloir de la décision.
+
+Une fois la période de vote écoulée (ou dès que tous les membres ont voté),
+le Secrétaire établit le procès verbal correspondant.
+
+ARTICLE 6 - COMMUNICATION OFFICIELLE INTERNE
 ============================================
 
-5.1 Signature électronique
+6.1 Signature électronique
 --------------------------
 
 Toute communication officielle d'un membre du Conseil d'Administration
@@ -291,7 +330,7 @@ La communication des membres au secrétariat n'est soumise à aucune
 obligation de signature cryptographique, sauf exception clairement
 précisée.
 
-5.2 Prédilection aux communications numériques
+6.2 Prédilection aux communications numériques
 ----------------------------------------------
 
 Sauf mention contraire dans les Statuts ou le Règlement Intérieur, les
@@ -302,7 +341,7 @@ destinée.
 Les adhérents choisissent librement d'utiliser la voie numérique ou la
 voie postale pour leur communication avec le Bureau ou le Secrétariat.
 
-5.3 Communications aux membres
+6.3 Communications aux membres
 ------------------------------
 
 Lorsque le Bureau souhaite communiquer une information à tous les membres, il
@@ -311,10 +350,10 @@ alors un courrier individuel à l'adresse email enregistrée dans Galette.
 
 Lorsque le Bureau souhaite communiquer des informations aux bénévoles
 qui veulent s'impliquer dans la vie associative, il utilise la liste de
-diffusion de l'Association (cf Article 6) à laquelle tout un chacun peut
+diffusion de l'Association (cf. Article 7) à laquelle tout un chacun peut
 s'abonner.
 
-ARTICLE 6 - ADRESSES ÉLECTRONIQUES
+ARTICLE 7 - ADRESSES ÉLECTRONIQUES
 ==================================
 
 Toutes les adresses électroniques doivent être complétées par
@@ -334,14 +373,14 @@ Toutes les adresses électroniques doivent être complétées par
 
 * secrétaire de l'association : secretaire.
 
-ARTICLE 7 - PRISE DE POSITION
+ARTICLE 8 - PRISE DE POSITION
 =============================
 
 L'Association pourra prendre position au sujet d'évènements ayant trait à ses
 buts tels que définis dans les Statuts. La décision se prend à l'unanimité du
 Conseil d'Administration.
 
-ARTICLE 8 - DÉFINITION DE L'ANNÉE DE RÉFÉRENCE
+ARTICLE 9 - DÉFINITION DE L'ANNÉE DE RÉFÉRENCE
 ==============================================
 
 L'année de référence de l'Association est fixée à l'année civile, c'est-à-dire
@@ -349,11 +388,11 @@ du 1er janvier au 31 décembre.
 
 L'année de référence correspond à l'exercice comptable.
 
-ARTICLE 9 - FINANCES
+ARTICLE 10 - FINANCES
 ====================
 
-9.1 Dépenses de l'Association
------------------------------
+10.1 Dépenses de l'Association
+------------------------------
 
 Les dépenses engagées par l'Association doivent être validées préalablement par
 le Conseil d'Administration.
@@ -373,15 +412,15 @@ mesure disciplinaire qu'il estime nécessaire en cas de dépense n'ayant pas pou
 but la réalisation d'un des objectifs de l'Association ou qu'il jugera abusive
 ou non nécessaire.
 
-9.2 Remboursement des dépenses générales
-----------------------------------------
+10.2 Remboursement des dépenses générales
+-----------------------------------------
 
 Les dépenses réellement engagées par les membres au titre de l'Association
 pourront être remboursées, avec accord préalable du Conseil d'Administration,
 sur présentation de justificatifs.
 
-9.3 Remboursement des frais de déplacement
-------------------------------------------
+10.3 Remboursement des frais de déplacement
+-------------------------------------------
 
 Dans le cas de l'utilisation d'un véhicule personnel, une indemnisation sera
 calculée en fonction du nombre de kilomètres réellement parcourus, pour se
@@ -391,8 +430,8 @@ Aucune facture de carburant ne sera remboursée. Les frais annexes à
 l'utilisation du véhicule personnel pourront être remboursés (stationnement,
 péages).
 
-9.4 Gestion des ressources du projet Debian
--------------------------------------------
+10.4 Gestion des ressources du projet Debian
+--------------------------------------------
 
 Debian France assume le rôle de « Trusted organisation » pour le compte
 du projet DEBIAN (tel que décrit à la `section 9.3 de la constitution
@@ -418,7 +457,7 @@ Ces derniers peuvent refuser d'effectuer les opérations demandées si
 les justificatifs requis pour la tenue d'une comptabilité correcte
 et sincère ne sont pas fournis.
 
-ARTICLE 10 - UTILISATION DU NOM ET DU OU DES LOGOS DE L'ASSOCIATION
+ARTICLE 11 - UTILISATION DU NOM ET DU OU DES LOGOS DE L'ASSOCIATION
 ===================================================================
 
 Les membres actifs peuvent faire référence à leur affiliation à l'Association, à
@@ -430,7 +469,7 @@ respecte l'esprit et la lettre des statuts de l'association, elle est
 subordonnée à l'existence d'un lien hypertexte du logo vers le site officiel de
 l'Association.
 
-ARTICLE 11 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
+ARTICLE 12 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
 ==============================================================
 
 * administration du serveur france.debian.net : Julien CRISTAU et Raphaël
