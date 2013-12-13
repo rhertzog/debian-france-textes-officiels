@@ -61,13 +61,13 @@ d'adhésion, et s'acquitter de sa cotisation.
 
 Pour une inscription en ligne, il faut se créer un compte sur le logiciel
 de gestion de membres Galette en remplissant le `formulaire dédié
-<https://france.debian.net/galette/self_adherent.php>` puis en réglant
+<https://france.debian.net/galette/self_adherent.php>`_ puis en réglant
 sa cotisation soit par PayPal via l'onglet PayPal accessible
 depuis son espace membre, soit par virement bancaire.
 
 Pour une inscription hors-ligne (notamment celles collectées lors
 d'événements), il convient de remplir une copie papier du
-`formulaire d'adhésion <http://france.debian.net/documents/adhesion.pdf>`,
+`formulaire d'adhésion <http://france.debian.net/documents/adhesion.pdf>`_,
 d'y joindre le montant de la cotisation en chèque ou en espèces,
 et d'envoyer le tout à l'adresse indiquée sur le formulaire.
 
@@ -235,15 +235,15 @@ Tous les membres du Bureau :
 
 * ont les droits administrateurs sur le « Gitolite » de l'association afin
   de pouvoir gérer les droits d'accès sur les différents dépôts Git
-  (cela se gère via le dépôt accessible par « git clone
-  git@france.debian.net:gitolite-admin »).
+  (cela se gère via le dépôt accessible par ``git clone
+  git@france.debian.net:gitolite-admin``).
 
 Le Président :
 
 * dispose du pouvoir bancaire ;
 
 * est habilité à effectuer des opérations de gestion pour le compte du
-  projet Debian dans le cadre fixé à l'Article 10.4 du présent règlement ;
+  projet DEBIAN dans le cadre fixé à l'Article 10.4 du présent règlement ;
 
 * représente l'association vis à vis des tiers et en est donc
   l'interlocuteur privilégié.
@@ -256,22 +256,22 @@ Le Secrétaire :
 * gère la modération des listes de diffusion de l'Association ;
 
 * rédige les procès verbaux des votes du Conseil d'Administration dans
-  le dépôt Git accessible au CA par « git clone
-  git@france.debian.net:proces-verbaux/ca »).
+  le dépôt Git accessible au CA par ``git clone
+  git@france.debian.net:proces-verbaux/ca``.
 
 * rédige les procès verbaux des Assemblées Générales dans le dépôt Git
-  accessible à tous par « git clone
-  git@france.debian.net:proces-verbaux/ag ».
+  accessible à tous par ``git clone
+  git://france.debian.net/proces-verbaux/ag``.
 
 Le Trésorier :
 
 * dispose du pouvoir bancaire ;
 
 * est habilité à effectuer des opérations de gestion pour le compte du
-  projet Debian dans le cadre fixé à l'Article 10.4 du présent règlement ;
+  projet DEBIAN dans le cadre fixé à l'Article 10.4 du présent règlement ;
  
 * tient la comptabilité de l'Association dans le dépôt Git accessible
-  au CA par « git clone git@france.debian.net:compta ».
+  au CA par ``git clone git@france.debian.net:compta``.
 
 ARTICLE 5 - CONSEIL D'ADMINISTRATION
 ====================================
@@ -389,7 +389,7 @@ du 1er janvier au 31 décembre.
 L'année de référence correspond à l'exercice comptable.
 
 ARTICLE 10 - FINANCES
-====================
+=====================
 
 10.1 Dépenses de l'Association
 ------------------------------
@@ -430,7 +430,7 @@ Aucune facture de carburant ne sera remboursée. Les frais annexes à
 l'utilisation du véhicule personnel pourront être remboursés (stationnement,
 péages).
 
-10.4 Gestion des ressources du projet Debian
+10.4 Gestion des ressources du projet DEBIAN
 --------------------------------------------
 
 Debian France assume le rôle de « Trusted organisation » pour le compte
@@ -438,17 +438,17 @@ du projet DEBIAN (tel que décrit à la `section 9.3 de la constitution
 Debian <http://www.debian.org/devel/constitution#item-9>`_). 
 
 En conséquence, l'Association peut gérer des actifs monétaires du
-projet Debian (fonds « Organisation Debian »). Seul le DEBIAN PROJECT
+projet DEBIAN (fonds « Organisation Debian »). Seul le DEBIAN PROJECT
 LEADER a l'autorité pour décider de l'usage de ces actifs dans le cadre
-fixé par le projet Debian.
+fixé par le projet DEBIAN.
 
 Ces actifs apparaissent dans la comptabilité standard de l'Association
 mais également dans une comptabilité analytique séparée tenue à
-disposition des auditeurs du projet Debian.
+disposition des auditeurs du projet DEBIAN.
 
 Les fonds propres de l'Association ne seront donc pas sous le contrôle du
 DEBIAN PROJECT LEADER. Le Conseil d'Administration peut cependant
-décider d'effectuer des donations au projet Debian et de transférer ainsi
+décider d'effectuer des donations au projet DEBIAN et de transférer ainsi
 une partie de ses fonds propres dans les fonds « Organisation Debian ».
 
 Le Président et le Trésorier sont les interlocuteurs du DEBIAN PROJECT
@@ -478,5 +478,5 @@ ARTICLE 12 - DÉLÉGATION DE POUVOIR DU CONSEIL D'ADMINISTRATION
 * administration des listes de diffusion : Julien CRISTAU et le Bureau ;
 
 * administration du site web : le Bureau et toutes les personnes
-  habilitées à mettre à jour le dépôt Git accessible par « git clone
-  git@france.debian.net:website ».
+  habilitées à mettre à jour le dépôt Git accessible par
+  ``git clone git@france.debian.net:website``.
