@@ -290,7 +290,7 @@ Lorsqu'un vote s'avère nécessaire, notamment lorsqu'il s'agit d'engager
 une dépense, n'importe quel membre du CA peut envoyer un appel à vote en
 préfixant le sujet de son message par « [VOTE] » et en y intégrant un
 bulletin de vote incluant les différents choix proposés (souvent
-Pour/Contre/Abstention) par exemple comme ceci::
+Pour/Contre/Abstention) par exemple comme ceci ::
 
   [ ] Pour l'achat de X
   [ ] Contre l'achat de X

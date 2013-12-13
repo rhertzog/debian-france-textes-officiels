@@ -140,11 +140,14 @@ ARTICLE 7 - RADIATIONS
 La qualité de membre se perd par :
 
 a) La démission
+b) Le décès
+c) La radiation
+
+a) La démission
 ---------------
 
 Toute démission doit être notifiée au Conseil d'Administration par l'envoi
-d'un courrier électronique à l'adresse indiquée dans le Règlement
-Intérieur.
+d'un courrier électronique à son attention.
 
 b) Le décès
 -----------
