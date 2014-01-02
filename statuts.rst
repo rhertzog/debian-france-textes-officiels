@@ -265,7 +265,7 @@ conditions suivantes:
   représentation.
 
 Le vote électronique est effectué en ligne grâce à un logiciel
-adéquat qui permette de s'assurer l'identité du votant.
+adéquat qui permette de s'assurer de l'identité du votant.
 
 Le logiciel de vote n'autorise le vote que pendant les créneaux
 précis, communiqués dans la convocation, sous responsabilité d'un
@@ -355,7 +355,7 @@ se réunir sur convocation du Président, ou sur demande du tiers
 de ses membres.
 
 Les décisions sont prises à la majorité simple des voix ; en cas de
-partage, la voix du président est prépondérante. Les modalités pratique
+partage, la voix du président est prépondérante. Les modalités pratiques
 des votes du Conseil d'Administration sont précisées dans le Règlement
 Intérieur.
 
