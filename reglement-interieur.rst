@@ -131,7 +131,7 @@ invitant tous les membres à voter. Le message doit contenir:
 * les date et heure limite pour voter ;
 
 * des instructions pour récupérer son identifiant/mot de passe Galette au
-  cas où l'adhérent les auraient perdu.
+  cas où l'adhérent les aurait perdus.
 
 En effet, les votes électroniques sont réalisées par une application web
 accessible à l'URL https://france.debian.net/votes/ et cette application
@@ -142,7 +142,7 @@ Galette (l'application web de gestion des membres).
 ----------
 
 Les modalités d'utilisation des mandats pour les Assemblées Générales
-dites « physiques » sont précisées somme suit :
+dites « physiques » sont précisées comme suit :
 
 * le mandat doit indiquer :
 
@@ -245,7 +245,7 @@ Le Président :
 * est habilité à effectuer des opérations de gestion pour le compte du
   projet DEBIAN dans le cadre fixé à l'Article 10.4 du présent règlement ;
 
-* représente l'association vis à vis des tiers et en est donc
+* représente l'association vis-à-vis des tiers et en est donc
   l'interlocuteur privilégié.
 
 Le Secrétaire :
