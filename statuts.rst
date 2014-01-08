@@ -39,9 +39,9 @@ du projet DEBIAN, des systèmes d'exploitation libres issus du projet
 DEBIAN et de manière plus générale toute contribution aux Logiciels dits
 « Libres » tant sur le territoire français que dans tout pays tiers.
 
-L'association a également pour objet de regrouper l'ensemble des
-contributeurs francophones au projet DEBIAN (développeurs, traducteurs,
-utilisateurs, etc.).
+L'association a également pour objet de fédérer et animer la communauté
+des contributeurs français et/ou francophones au projet DEBIAN
+(développeurs, traducteurs, utilisateurs, etc.).
 
 Ainsi, et sans que cette liste ne puisse être limitative, l'association
 sera notamment amenée à réaliser les actions suivantes :
@@ -122,20 +122,16 @@ sont membres de l'Assemblée Générale avec voix délibérative.
 ARTICLE 6 - ADMISSION
 =====================
 
-Pour devenir membre actif ou ordinaire de l'Association, il faut remplir
-un bulletin d'adhésion et le faire parvenir au Conseil d'Administration
-selon les modalités documentées dans le Règlement Intérieur.
+Pour devenir membre de l'Association, il faut remplir un bulletin
+d'adhésion et le faire parvenir au Conseil d'Administration selon les
+modalités documentées dans le Règlement Intérieur.
 
 Le Conseil d'Administration peut rejeter toute demande d'adhésion si la
-majorité des deux tiers de ses membres le décide.
+majorité des deux tiers de ses membres le décide. Il n'a pas à motiver sa
+décision.
 
-Cette décision sera, si le demandeur non admis ne s'y oppose pas,
-portée à la connaissance des membres via la liste de diffusion de
-l'Association. Le Conseil d'Administration, en cas de refus, n'a pas à
-motiver sa décision.
-
-ARTICLE 7 - RADIATIONS
-======================
+ARTICLE 7 - PERTE DE LA QUALITÉ DE MEMBRE
+=========================================
 
 La qualité de membre se perd par :
 

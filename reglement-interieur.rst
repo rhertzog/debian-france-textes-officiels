@@ -98,6 +98,16 @@ modifications portant sur son adresse postale, adresse électronique, téléphon
 La liste des membres est publique pour l'ensemble des membres de l'Association
 sans distinction de la qualité de membre.
 
+1.3 Rejet des adhésions
+-----------------------
+
+Les nouvelles adhésions sont annoncées sur la liste du Conseil
+d'Administration (CA). Dans un délai maximal de 15 jours, lorsqu'un membre
+du CA souhaite rejeter une adhésion, il initie un vote à cette fin. Si le
+CA confirme le rejet, l'adhésion est simplement annulée (et l'éventuelle
+cotisation remboursée) et ce rejet est communiqué aux membres via la liste
+de diffusion de l'Association.
+
 ARTICLE 2 - ASSEMBLÉE GÉNÉRALE
 ==============================
 
